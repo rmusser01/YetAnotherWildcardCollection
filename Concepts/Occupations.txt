@@ -47,6 +47,7 @@ Artillery
 Artilleryman
 artisan
 artist
+artist painter
 assassin
 assistant
 astromancer
@@ -56,6 +57,7 @@ backpacker
 bandit
 barber
 bard
+bartender
 battlemage
 beastmaster
 bicyclist
@@ -64,16 +66,19 @@ blue-collar worker
 body double
 bodyguard
 bounty hunter
+burglar
 bus driver
 businessmen
 butcher
+butler
 Calvary
 captain
 carpenter
-Cashier
 cashier
+Cashier
 Cavalryman
 chef
+chemist
 chess player
 chronomancer
 civil servant
@@ -87,6 +92,7 @@ Communications Specialist
 Communist
 commuter
 con artist
+conductor
 conjurer
 construction worker
 consumer
@@ -94,8 +100,10 @@ corporal
 corpse remover
 counselor
 craftsman
+croupier
 cultivator/immortal cultivator
 Customer Service Representative
+cyclist
 Democrat
 demolition expert
 demon hunter/exorcist/monster hunter
@@ -108,7 +116,9 @@ Diplomat
 diplomat
 discoverer
 diviner/feng shui master
+dj
 doctor
+dominatrix
 dragonslayer
 driver
 druid
@@ -118,32 +128,39 @@ elementalist
 elevator girl
 employer
 enchanter
-Engineer
 engineer
+Engineer
 esports player
 eunuch
 excursionist
 executioner
 explorer
 familiar
+farmer
 farmer/agriculturist
 firefighter
+flight attendant
+florist
 follower
 gadabout
 gallivanter
 garbage collector
 gatekeeper
+geisha
 general
 globetrotter
+guard
 guardian
 gunner's mate
 hacker
 hair stylist
 hero/superhero
+hikikomori
 hitman
 holidaymaker
 housekeeper
 hunter
+idol
 Infantry
 Infantryman
 Intelligence
@@ -152,8 +169,8 @@ inventor
 janitor
 jet-setter
 journeyer
-Judge
 judge
+Judge
 kamen rider
 knight
 landscaper
@@ -163,7 +180,9 @@ lawyers
 leader
 Liaison Officer
 Libertarian
+librarian
 lieutenant
+lifeguard
 listener
 Lobbyist
 Logisticics
@@ -171,6 +190,7 @@ lumberjack
 mage/wizard/elementalist/necromancer/summoner
 magical girl/witch/magic boy
 mahjong player
+maid
 mail carrier
 Maintenance
 Marine
@@ -179,8 +199,11 @@ mechanic
 Medic
 mercenary
 Merchandiser
+merchant
+miko
 military officer (general/marshal)
 miner
+monk
 monk/nun
 mortician
 musician
@@ -188,7 +211,9 @@ nanny
 navigator
 necromancer
 ninja
+nun
 nurse
+office lady
 officer
 Ordnance
 paladin
@@ -202,17 +227,19 @@ pharmacist
 philanthropist
 photographer
 pilgrim
-Pilot
 pilot
+Pilot
 plague doctor
 plitician
 plumber
+police
 police officer
 political officer
 politician
 postman
 priest
 priest/nun
+prisoner
 private
 private enforcer
 professional gamer
@@ -220,6 +247,7 @@ professor
 programmer
 Progressive
 prospector
+prostitution
 Protester
 Psychic
 quartermaster
@@ -242,38 +270,44 @@ robot pilot
 rover
 runemaster
 sage
-Sailor
 sailor
+Sailor
 saint
+salaryman
 salesperson
 samurai
 sanitation worker
 scholar
+school nurse
 scientist
 scout
 seaman
 secretary
 sergeant
+shepherd
 shinto shrine maiden/shaman
 shopper
 sightseer
+slave
 Sniper
 sniper
 social worker
 Socialist
 software engineer
-Soldier
 soldier
+Soldier
 sonarman
 sorcerer
 speaker
 specialist
 SpecOps
-Spy
 spy
+Spy
+standard-bearer
 Store Manager
 storekeeper
 strategist
+stripper
 student
 summoner
 super soldier
@@ -289,16 +323,18 @@ Tanker
 taoist priest/taoist nun
 taxi driver
 teacher
-Terrorist
 terrorist
+Terrorist
 thaumaturge
 thief/bandit/phantom thief/pirate
 tourer
 tourist
 Traditionalist
 train attendant
+train conductor
 traveller
 trooper
+trucker
 Uber driver
 vacationer
 vacationist

@@ -31,11 +31,17 @@ Including:
 ## TODO
 
 - [ ] Improve naming schema
-- [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
-- [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/parrotzone
-- [ ] Add content from:	https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
+- [X] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
+- [X] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/parrotzone
+- [X] Add content from:	https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
+- [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/jumbo
 - [ ] List of items added from original fork.
 
+
+For items in catalogues that were NSFW, here is a list of URLs containing individual files that were not added:
+	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw/pose
+	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw/body-1
+	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw/body-2
 
 ## License
 

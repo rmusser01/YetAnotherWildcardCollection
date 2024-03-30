@@ -1,0 +1,12 @@
+board game
+chess
+game of life
+go
+kai-awase
+mahjong
+monopoly
+reversi
+settlers of catan
+shogi
+tabletop rpg
+tic-tac-toe
