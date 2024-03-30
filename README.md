@@ -1,9 +1,9 @@
-YetAnotherWildcardCollection
+(Forked from LulzRose's) YetAnotherWildcardCollection
 =============
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://opensource.org/licenses/unlicense)
 
-This is a compilation of around a dozen wildcard collections pruned for any errors and duplicates and organized for ease of use. 
+This is a compilation of more than a dozen wildcard collections pruned for any errors and duplicates and organized for ease of use. This fork is focused on non-NSFW entries. 
 
 ## Requirements
 
@@ -20,7 +20,7 @@ Download the wildcards or folders you would like and place them in your wildcard
 Features
 --------
 
-The collection includes 306 Files organized into 26 folders
+The collection includes X Files organized into X folders
 
 Including:
 - 1205 Different Pokemon
@@ -30,12 +30,10 @@ Including:
 
 ## TODO
 
-- [X] Finish the Readme
-- [X] Organize Prompts Folder
-- [X] Prune Furries Wildcard
-- [ ] Fully Rework Emotions Card into Multiple Categorized Cards
 - [ ] Improve naming schema
-
+- [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
+- [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/parrotzone
+- [ ] Add content from:	https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
 
 ## License
 
