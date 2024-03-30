@@ -26,7 +26,7 @@ Including:
 - 1205 Different Pokemon
 - Thousands of Colors
 - Tons of Pre-Made Prompts
-- Please dont ask me about the Avian file, I dont wanna see another bird ever again...
+- Lots of new stuff
 
 ## TODO
 
@@ -34,6 +34,8 @@ Including:
 - [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
 - [ ] Add content from: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/parrotzone
 - [ ] Add content from:	https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
+- [ ] List of items added from original fork.
+
 
 ## License
 
