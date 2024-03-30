@@ -1,3 +1,4 @@
+
 belly-button-high
 bijou
 compact
@@ -10,8 +11,8 @@ gnomish
 itsy-bitsy
 itty-bitty
 knee-high
-knee-high to a wastebasket
 knee-high to a pygmy
+knee-high to a wastebasket
 Lilliputian
 little
 low-slung

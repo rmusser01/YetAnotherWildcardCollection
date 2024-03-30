@@ -1,13 +1,19 @@
 aerial view
+Aerial View
 aiming at viewer
 atmospheric perspective
 bird's eye view
+Bird's Eye View
 bird's-eye view
 bird’s-eye view
 boom shot
 camera view
+Camera View From Above
+Canted Angle (Dutch Tilt)
+Cinematic Panorama
 close up
 close-up
+Close-up View
 cowboy shot
 crane shot
 crotch shot
@@ -15,66 +21,104 @@ dolly shot
 dolly zoom
 downblouse
 downpants
+Drone View
 dutch angle
+Dutch Angle (Oblique View)
 establishing shot
 extreme close-up
+Extreme Close-Up (ECU)
 extreme long shot
+Extreme Long Shot
 extreme perspective
 eye level
+Eye-Level Shot
 eyewear view
 facing viewer
+Far-Shot Angle
 first person view
+First-Person View
 fish-eye lens
 fisheye
 fisheye lens
 fisheye-shot
 foreshortening
+Frog's Eye View
 from above
 from behind
 from below
 from side
 front view
+Front View
 full shot
+Full-Shot Angle
+Ground-Shot Angle
 handheld shot
 hdri
 high angle
+High Angle View
 high-angle view
+Isometric View
 jib shot
+Knee-Level Shot
+Long Exposure
+Long Shot
 long shot
 low angle
 low-angle shot
+Low-Angle View
 low-angle view
 macro shot
+Medium Close-Up
 medium close-up
+Medium Long Shot
 medium long shot
 medium shot
+Medium-Shot Angle
+Microscopic View
+Nose-Level Shot
 oblique angle
+Outer space View
 over-the-shoulder shot
+Over-the-Shoulder View
 overhead shot
 panorama
 pantyshot
 perspective
+Point of View (POV) Shot
 point-of-view shot
 pointing at viewer
 pov
+Product View
 reaching towards viewer
+Rear View
 rear view
 rotated
+Satellite View
 scenery
+Shoulder-Level Shot
+Side View
 side view
 sideways
+Skewed Angle
+Split Screen View
 steadicam shot
 telephoto shot
 three-quarter view
 tilt shot
+Tilt-shift
 tilt-shift shot
+Top View
 tracking shot
 two-shot
+Two-Shot / Three-Shot
+Ultra-Wide Angle
 upside-down
 upskirt
 vanishing point
 wide shot
+Widee Angle View
 worm's eye
+Worm's Eye View
 worm's eye view
 worm's-eye view
 zoom shot

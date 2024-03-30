@@ -2,6 +2,7 @@ abbot
 abjurer
 able-bodied seaman
 accountant
+Activist
 activist
 actor
 actress
@@ -24,9 +25,17 @@ agricultural engineer
 agricultural equipment operator
 agricultural grader
 agricultural inspector
+Air Force Intelligence
+Air Force Security Forces
+Air Force Weather
 air hostess
 air pirate
+Air Traffic Controllers
+Aircraft Maintenance Technicians
+Aircrew
+Airman,annalist
 alchemist
+Anarchist
 animal caretaker
 anti-hero/super anti-hero
 arcanist
@@ -34,6 +43,8 @@ archaeologist
 archer/sharpshooter
 architect
 artificer
+Artillery
+Artilleryman
 artisan
 artist
 assassin
@@ -43,37 +54,57 @@ astronaut
 athlete
 backpacker
 bandit
+barber
 bard
 battlemage
 beastmaster
+bicyclist
 blacksmith
 blue-collar worker
 body double
 bodyguard
 bounty hunter
+bus driver
+businessmen
 butcher
+Calvary
 captain
 carpenter
+Cashier
+cashier
+Cavalryman
 chef
 chess player
 chronomancer
 civil servant
 clergyman
+client
 coach
+colonel
 commander
+Communications
+Communications Specialist
+Communist
+commuter
 con artist
 conjurer
 construction worker
+consumer
+corporal
 corpse remover
 counselor
 craftsman
 cultivator/immortal cultivator
+Customer Service Representative
+Democrat
 demolition expert
 demon hunter/exorcist/monster hunter
 demonologist
 dentist
+Department Manager
 designer
 detective
+Diplomat
 diplomat
 discoverer
 diviner/feng shui master
@@ -85,7 +116,9 @@ dual cultivation of martial arts and magic
 electrician
 elementalist
 elevator girl
+employer
 enchanter
+Engineer
 engineer
 esports player
 eunuch
@@ -98,46 +131,81 @@ firefighter
 follower
 gadabout
 gallivanter
+garbage collector
 gatekeeper
+general
 globetrotter
 guardian
+gunner's mate
 hacker
 hair stylist
 hero/superhero
 hitman
 holidaymaker
+housekeeper
 hunter
+Infantry
+Infantryman
+Intelligence
+Intelligence Analyst
 inventor
+janitor
 jet-setter
 journeyer
+Judge
 judge
 kamen rider
 knight
+landscaper
+Lawyer
 lawyer
+lawyers
+leader
+Liaison Officer
+Libertarian
+lieutenant
+listener
+Lobbyist
+Logisticics
 lumberjack
 mage/wizard/elementalist/necromancer/summoner
 magical girl/witch/magic boy
 mahjong player
+mail carrier
+Maintenance
+Marine
 martial artist
 mechanic
+Medic
 mercenary
+Merchandiser
 military officer (general/marshal)
 miner
 monk/nun
 mortician
+musician
+nanny
+navigator
 necromancer
 ninja
 nurse
+officer
+Ordnance
 paladin
 paladin/dark knight/death knight/dragon rider
+Pararescuemen
 party leader
 passenger
+patient
+pedestrian
 pharmacist
 philanthropist
 photographer
 pilgrim
+Pilot
 pilot
 plague doctor
+plitician
 plumber
 police officer
 political officer
@@ -145,20 +213,36 @@ politician
 postman
 priest
 priest/nun
+private
 private enforcer
 professional gamer
 professor
 programmer
+Progressive
 prospector
+Protester
+Psychic
+quartermaster
 racing girl/racer
+radarman
 receptionist
+Recon
+Reconnaissance Specialist
 reconnoitrer
+registered nurse
 religious leader
+Republican
+Retail Associate
+Retail Clerk
+Retail Sales Associate
+Retail Stocker
+Retail Supervisor
 revolutionary
 robot pilot
 rover
 runemaster
 sage
+Sailor
 sailor
 saint
 salesperson
@@ -167,42 +251,71 @@ sanitation worker
 scholar
 scientist
 scout
+seaman
 secretary
+sergeant
 shinto shrine maiden/shaman
+shopper
 sightseer
+Sniper
 sniper
 social worker
+Socialist
+software engineer
+Soldier
 soldier
+sonarman
 sorcerer
+speaker
+specialist
+SpecOps
+Spy
 spy
+Store Manager
+storekeeper
 strategist
+student
 summoner
 super soldier
 super villain/super antagonist
 supervisor
+Supply
 surveyor
 swordsman/sword saint
 system
+tactician
+Tank Crewman
+Tanker
 taoist priest/taoist nun
+taxi driver
 teacher
+Terrorist
 terrorist
 thaumaturge
 thief/bandit/phantom thief/pirate
 tourer
 tourist
+Traditionalist
 train attendant
 traveller
+trooper
+Uber driver
 vacationer
 vacationist
 veterinarian
 visitor
 voyager
+waiter
+waitress
 wanderer
 warlord
 warrior
+web developer
 wet nurse
+Wingman
 witch
 wizard
 worker
 writer
+yeoman
 yin-yang master

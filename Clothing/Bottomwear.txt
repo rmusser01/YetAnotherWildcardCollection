@@ -1,13 +1,18 @@
+
 a-line skirt
 accordion pleat skirt
 asymmetrical skirt
+Asymmetrical Skirt
+Athletic Leggings
 baggy pants
 ball gown skirt
 bell-bottom jeans
+Bell-Bottom Pants
 bell-bottoms
 bermuda shorts
 bike shorts
 bloomers
+Bohemian Skirt
 bootcut jeans
 bottomless
 box pleat skirt
@@ -15,22 +20,28 @@ boyshorts
 bubble skirt
 buruma
 capri pants
+Capri Pants
 cargo pants
+Cargo Pants
 cargo shorts
+Casual Denim Shorts
 chaps
 chinos
 culottes
 cutoff jeans
 denim shorts
+Denim Skirt
 detached pants
 dolphin shorts
 drawstring pants
 flared jeans
 flared skirt
+Flowy Palazzo Pants
 gaucho pants
 gauchos
 gym shorts
 harem pants
+Harem Pants
 high-low skirt
 high-waist skirt
 high-waisted skirt
@@ -41,15 +52,20 @@ joggers
 jumpsuit
 khakis
 kilt
+Knee-Length Skirt
+Leather Pants
 leggings
+Linen Pants
 long skirt
 lowleg pants
 lowleg shorts
 lowleg skirt
 maxi skirt
+Maxi Skirt
 micro shorts
 microskirt
 midi skirt
+Mini Skirt
 miniskirt
 overall skirt
 overalls
@@ -64,14 +80,17 @@ plaid skirt
 pleated shorts
 pleated skirt
 ruffle skirt
+Ruffle Skirt
 sarong
 short shorts
 shorts
 shorts under skirt
 skater skirt
 skinny jeans
+Skinny Jeans
 skirt
 slacks
+Slip Skirt
 straight leg jeans
 sun skirt
 suspender skirt
@@ -81,6 +100,7 @@ torn jeans
 track pants
 trousers
 tulip skirt
+Tulle Skirt
 wide leg pants
 wrap skirt
 yoga pants

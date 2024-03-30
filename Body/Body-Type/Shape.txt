@@ -7,15 +7,22 @@ blocky
 boobylicious
 bootylicious
 broad-shouldered
+buff
 bulbous
+bulky
+burly
 busty
+chubby
 compact
 curvy
 curvy figure
 cylindrical
 diamond
 ectomorphic
+elegant
 endomorphic
+fat
+fit
 flat
 flat-chested
 full-figured
@@ -39,13 +46,16 @@ pumpkinesque
 pyramidal
 rectangle
 rectangular
+ripped
 rotund
+rough
 round
 sculpted
 serpentine
 shapeless
 shapely
 short-legged
+skinny
 slender
 small-waisted
 soft
@@ -54,6 +64,7 @@ spidery
 square
 tall
 thick-waisted
+thin
 toned
 top-heavy
 triangular

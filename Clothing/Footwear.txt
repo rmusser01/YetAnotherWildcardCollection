@@ -1,12 +1,17 @@
+
 animal slippers
 ankle boots
+Ankle Boots
 ankle strap heels
 armored boots
+Ballerina Flats
 ballet slippers
+Basketball shoes
 block heels
 boots
 buckle heels
 cage heels
+Chelsea Boots
 chunky heels
 clear heels
 clog sandals
@@ -22,6 +27,7 @@ cuban heels
 cut-out heels
 d'orsay heels
 dress heels
+Dress Shoes
 embellished heels
 espadrille heels
 flats
@@ -29,6 +35,7 @@ flip-flops
 footwear ribbon
 geta
 gladiator heels
+Gladiator Sandals
 gladiator sandals
 heel boots
 heel clogs
@@ -50,6 +57,7 @@ heeled sandals
 heeled slingbacks
 heeled wedges
 high heel boots
+High Heels
 high heels
 high tops
 high-heel boots
@@ -63,6 +71,7 @@ high-heel wedges
 kiltie loafers
 kitten heels
 knee boots
+Knee-High Boots
 lace-up boots
 lace-up heels
 laser cut heels
@@ -78,6 +87,7 @@ oxfords
 peep-toe heels
 platform footwear
 platform heels
+Platform Sandals
 pointed-toe heels
 pointy footwear
 pump heels
@@ -87,6 +97,7 @@ saddle shoes
 sandals
 slingback heels
 slippers
+Sneakers
 sneakers
 spurs
 square-toe heels
@@ -97,6 +108,7 @@ toeless footwear
 uwabaki
 waraji
 wedge heels
+Western Boots
 winged footwear
 wrap-around heels
 zouri

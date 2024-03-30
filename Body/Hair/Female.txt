@@ -1,32 +1,42 @@
 afro
+Afro
+Asymmetrical Bob
 ballerina bun
 bang
 beach waves
 beachy waves
 blowout
+Blunt Cut
 bob
 bob cut
+Bob Cut
 bouffant
 box braids
 boy cut
 braid
 braided
 braided chignon
+Braided Crown
 braided hairstyle
 braided headband
 braided ponytail
 braided space buns
 braided updo
+braids
 braids with loose waves
 bubble ponytail
 bun
 buzz cut
+Chin-Length Bob
 chin-length bob
 choppy bob
 classic french braid
+Cornrows
 cornrows
+Crew Cut
 crimped hair
 cropped pixie
+Curly Bob
 curly bob
 curly hair
 curly half-up half-down
@@ -41,6 +51,7 @@ faux hawk
 fauxhawk
 fishtail braid
 french braid
+French Crop
 french twist
 french twist updo
 fringe
@@ -53,12 +64,14 @@ half-up half-down hairstyle
 high bun with bangs
 high ponytail
 layered hair
+Layered Haircut
 layered pixie cut
 lob
 lob (long bob)
 long hair
 long layered hair
 long pixie
+Long Straight Hair
 loose curls with a hair accessory
 low bun with a bow
 low ponytail with a twist
@@ -74,6 +87,7 @@ messy top knot
 micro bangs
 micro braids
 modern shag
+Mohawk
 mohawk
 mohawk braid
 mohawk ponytail
@@ -83,6 +97,7 @@ perm
 pigtails with ribbon
 pinned back curls
 pixie bob
+Pixie Cut
 pixie cut
 pixie cut with bangs
 pointy hair
@@ -96,6 +111,7 @@ ringlets
 romantic updo with loose curls
 shag
 shaggy hair
+Shaggy Haircut
 short hair
 short pixie cut
 short shag cut
@@ -105,6 +121,7 @@ side swept bangs
 side swept curls
 side swept faux bangs
 side swept updo
+Side-Swept Bangs
 sleek bob
 sleek hair
 sleek high bun
@@ -121,6 +138,7 @@ spiky pixie
 spiral curls
 stacked bob
 straight hair
+Tapered Pixie
 textured bob
 textured hair
 textured ponytail
@@ -138,7 +156,9 @@ twisted low ponytail
 twisted rope braid
 twisted side braid
 twisted side ponytail
+Undercut
 undercut pixie
+Updo
 updo
 updo hairstyle
 upside down french braid bun
@@ -147,6 +167,7 @@ voluminous blowout
 voluminous half-updo
 waterfall braid
 wavy hair
+Wavy Lob
 wavy lob (long bob)
 wedge cut
 wet-look hairstyle

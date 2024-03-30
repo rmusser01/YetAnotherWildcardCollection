@@ -1,5 +1,8 @@
+Bathing Suit
 bathrobe
+Beach Cover-Up
 bikesuit
+Bikini
 bikini
 bikini skirt
 bodystocking
@@ -13,6 +16,7 @@ dress swimsuit
 frilled bikini
 frilled swimsuit
 g-string
+High-Waisted Bikini
 highleg bikini
 highleg swimsuit
 impossible swimsuit
@@ -28,6 +32,7 @@ o-ring bikini
 o-ring bottom
 o-ring top
 old-fashioned swimsuit
+One-Piece Swimsuit
 one-piece swimsuit
 open robe
 playboy bunny

@@ -1,0 +1,10 @@
+### Focal Length & Aperture Explained
+
+- **Focal Lengths/Lens Type**
+	* Shorter focal lengths (e.g., `18mm`) result in wider angles of view, making them suitable for landscapes and architecture. `24mm` and `35mm` are favored for landscape 
+ 	* `50mm` and `85mm` prime lenses are often used for portraits due to their ability to create a pleasing background blur (`bokeh`)
+ 	* Longer focal lengths (e.g., `70-200mm`) provide more magnification, ideal for wildlife or sports photography.
+
+- **Aperture(f-stop)**<a name="aperture"></a>
+	* A wide aperture (e.g., `f/1.8`) allows more light and creates a shallow depth of field, great for portraits and low-light situations.
+ 	* Smaller apertures (e.g., `f/16`) provide greater depth of field, which is useful for landscapes and macro photography.

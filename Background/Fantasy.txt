@@ -1,35 +1,58 @@
+A canvas of vivid, swirling colors and shapes.
+A dark and evil land
 a dark, foreboding castle where a wicked queen reigns
+A dark, foreboding castle where a wicked queen reigns
 a fairytale land where magical creatures live and thrive
+A fairytale land where magical creatures live and thrive
+A land full of slime moss stagnant water and insects
+A land where nothing makes sense and everything is out of place
 a magical kingdom where everything is perfect and everyone is happy
+A magical kingdom where everything is perfect and everyone is happy
+A Mayan temple hidden deep in the jungle.
+A place that was once inhabited by beings from another world
+A place with everything made of wood with a little old paint peeling off and lots of ingrown tribal details
+A shattered mirror reflecting fragmented realities.
 a tropical paradise where the sun shines brightly every day
+A tropical paradise where the sun shines brightly every day
+A world composed entirely of intricate fractals.
 alfheim
 an enchanted forest where magical creatures and plants abound
+An enchanted forest where magical creatures and plants abound
 annwn
 asgard
 atlantis: a lost city of great wisdom and power, now drowned beneath the sea
+Atlantis: A lost city of great wisdom and power, now drowned beneath the sea
 avalon
 bifrost
 duat
 elysium
 fairyland: a place where fairies and other magical creatures live
+Fairyland: A place where fairies and other magical creatures live
 ginnungagap
 helheim
 jotunheim
 jotunheimr
 mictlan
 middle earth: a vast and ancient world, home to elves, dwarves, hobbits, and wizards
+Middle Earth: A vast and ancient world, home to Elves, Dwarves, Hobbits, and Wizards
 midgard
 mordor: a dark and evil land ruled by the dark lord sauron
+Mordor: A dark and evil land ruled by the dark lord Sauron
 mount meru
 mount olympus
 muspelheim
 narnia: a land of talking animals and magical creatures, ruled by aslan the lion
+Narnia: A land of talking animals and magical creatures, ruled by Aslan the lion
 neverland: a lost island where children can stay forever young
+neverland: A lost island where children can stay forever young
 nidavellir
 nidhogg
 oz: a land of enchantment, where anything is possible
+Oz: A land of enchantment, where anything is possible
 shambhala: a hidden paradise where enlightened beings live in perfect harmony
+Shambhala: A hidden paradise where enlightened beings live in perfect harmony
 svartalfheim
+The ancient city of Atlantis beneath the ocean's depths.
 the castle of shadows
 the celestial kingdom
 the city of glas
@@ -48,6 +71,7 @@ the land of the ancestors
 the land of the blessed
 the land of the dead
 the land of the rising sun
+The lost city of El Dorado gleaming with gold.
 the mountain of fire
 the otherworld
 the palace of dreams
@@ -55,15 +79,20 @@ the shattering isles
 the shrine of the lost
 the tower of destiny
 the tower of oblivion: a stronghold where forgotten secrets and dark magic are hidden
+The Tower of Oblivion: A stronghold where forgotten secrets and dark magic are hidden
 the tower of shadows
 the underworld
 the vale of shadows: a dark and foreboding valley where no sunlight ever penetrates
+The Vale of Shadows: A dark and foreboding valley where no sunlight ever penetrates
 the valley of the damned
 the valley of the lost
 tir na nog
+Underwater kingdom with mermaids and coral reefs. - **Abstract Artistry**
 valhalla
 vanaheim
 wonderland: a wild and fantastical place, ruled by the queen of hearts
+Wonderland: A wild and fantastical place, ruled by the Queen of Hearts
 xanadu: a magical kingdom ruled by a wise and benevolent queen
+Xanadu: A magical kingdom ruled by a wise and benevolent queen
 xibalba
 yggdrasil

@@ -1,19 +1,20 @@
 1koma
+2d \(artwork\)
 2d animation
 2d digital paintings
-2d \(artwork\)
 2koma
 3d
+3d \(artwork\)
 3d animation
 3d digital paintings
 3d path tracing
 3d ray tracing
 3d renderings
 3d sculpting
-3d \(artwork\)
 3koma
 4koma
 5koma
+8bit
 abstract
 absurdres
 acrylic art
@@ -27,6 +28,7 @@ airbrush art
 album cover
 alcohol ink
 algorithmic art
+ambient occlusion
 animated
 animated gif
 animated png
@@ -45,12 +47,14 @@ black and white negative film
 board game
 borderless panels
 botanical drawing
+brocade
 brush (medium)
 calendar (medium)
 calligraphy brush (medium)
 canvas (medium)
 card (medium)
 cartoon
+cel-shaded
 chalk (medium)
 chalk art
 chalks
@@ -58,8 +62,8 @@ character doll, figure, kotobukiya
 character sheet, reference sheet
 character single
 charcoal (medium)
-charcoal drawing
 charcoal \(artwork\)
+charcoal drawing
 charcoals
 children’s drawing
 claymation
@@ -86,6 +90,7 @@ daguerrotype
 data-moshing
 demoscene
 detailed painting
+digital art
 digital collage
 digital drawing \(artwork\)
 digital illustration
@@ -97,6 +102,7 @@ diorama
 done in lego
 doujin cover
 dvd cover
+dye-transfer
 dynamic paintings
 easytoon
 en plein air
@@ -105,25 +111,29 @@ eromanga
 etched metal
 etched stone
 etching
+faience
 fake cover
 fake screenshot
 fashion editorial
 faux traditional media
 figures, doll
+filigree
 fine art parody
 flame painter
 flash
+fractal
 fractal art
 fresco
 game cg
 generative art
+gouache
 gouache (medium)
-gouache painting
 gouache \(artwork\)
+gouache painting
 graphite (medium)
-graphite pencils
 graphite \(artwork\)
 graphite \(medium\)
+graphite pencils
 gyotaku (medium)
 has artifacted revision
 has bad revision
@@ -146,6 +156,7 @@ ink wash painting, sumi-e
 integrated arts
 isometric
 isotype
+kintsugi
 kirigami
 left-to-right manga
 ligne claire
@@ -160,6 +171,9 @@ looping animation
 low poly
 lowres
 magazine cover
+majolica
+mandelbrot
+mandelbulb
 manga
 manga cover
 marker (medium)
@@ -180,6 +194,7 @@ mosaic art
 movie poster
 multiple 4koma
 music video
+needlepoint
 nib pen (medium)
 nihonga
 no lineart
@@ -208,19 +223,20 @@ pastels
 patchwork
 pattachitra
 pen \(artwork\)
-pencil sketch
 pencil \(artwork\)
+pencil sketch
 petroglyph
 phonecard
 photo
 photocollage
 photocopy
 photography \(artwork\)
+photoillustration
 photomosaic
 photorealistic
 pietra dura
-pixel art
 pixel \(artwork\)
+pixel art
 plastic models
 play-doh
 posca
@@ -233,7 +249,9 @@ quilling
 raster paintings
 real life
 realistic
+resin cast
 retro graphics
+retroism
 revision
 right-to-left comic
 risograph
@@ -253,6 +271,7 @@ speedpainting
 splash art
 stained glass
 sticker
+stipple
 style parody
 sumi-e
 surreal
@@ -266,6 +285,8 @@ tegaki
 tempera
 tempera (medium)
 terrarium
+tesselation
+thermal imaging
 tileable
 traditional media
 traditional media \(artwork\)
@@ -279,17 +300,20 @@ vector trace
 video
 video game cover
 vincent van gogh
+volumetric lighting
 voxel
 voxel art
 wallpaper forced
 war poster, propaganda poster, wwii poster
 watercolor
 watercolor (medium)
-watercolor pencil (medium)
 watercolor \(artwork\)
 watercolor \(medium\)
+watercolor pencil (medium)
 watercolors
 watercolour
+wet brush
+wet wash
 wide image
 widescreen
 woodblock

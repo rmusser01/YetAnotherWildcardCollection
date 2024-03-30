@@ -1,0 +1,9 @@
+- **Handy Photography Prompts**
+	* `Portrait, 85mm, f/1.4`
+	* `Landscape, 24mm, f/11`
+	* `Macro, 100mm (Macro Lens), f/2.8`
+	* `Product, 50mm, f/8`
+	* `Low-Light, 50mm, f/1.8 or wider`
+	* `Sports, 300mm, f/2.8` 
+	* `Street, 35mm, f/2.8`
+	* `Astrophotography, 14mm, f/2.8`

@@ -1,12 +1,13 @@
-(-3-)
-+ +
-+ -
-. .
-0 0
-3:
+;)
+;3
+;d
+;o
+;p
+;q
 :(
 :)
 :/
+:|
 :3
 :c
 :d
@@ -17,36 +18,48 @@
 :s
 :t
 :x
-:|
-;)
-;3
-;d
-;o
-;p
-;q
-= =
-=v=
-=^=
+. .
+(-3-)
 @ @
+\(^o^)/
+^ ^
+^_^
+^^^
+^o^
+^q^
++ -
++ +
+= =
+=^=
+=v=
+| |
+0 0
+3:
 adoring
 afraid
 afterglow
 aggressive
+Agitated
 ahegao
 amused
+Amused
 amusement
 anger
 anger vein
 angry
+Angry
 annoyed
 anxious
+Anxious
 apathetic
+Apathetic
 appalled
 appeasing
 appreciative
 apprehensive
 aroused
 ashamed
+Ashamed
 astonished
 awe
 awesome face
@@ -56,20 +69,28 @@ baffled
 bashful
 beaming
 bewildered
+Bewildered
 biting lip
 bitter
+Bitter
 blissful
+Blissful
 blowjob face
 blush
 blush stickers
 boisterous
 bored
+Bored
 boredom
 c:
+Calm
 captivated
+Carefree
+Cautious
 celebrating
 celebratory
 cheerful
+Cheerful
 chipper
 clenched jaw
 clenched teeth
@@ -78,13 +99,17 @@ closed mouth
 cold
 color drain
 comfortable
+Composed
 concerned
 confident
+Confident
 confused
+Confused
 confusion
 contemplative
 contempt
 content
+Content
 coy
 crazy
 crazy smile
@@ -92,32 +117,40 @@ cry
 crying
 curiosity
 curious
+Curious
 d:
 deceptive
 defensive
 dejected
 delight
 delighted
+Delighted
 delirious
 delusional
 depressed
+Depressed
 derisive
 despair
 desperate
 despondent
 determined
+Determined
 devastated
 disappointed
+Disappointed
 disbelief
 disbelieving
+Discontent
 disdain
 disgruntled
 disgust
 disgusted
 disheartened
 dismayed
+Disoriented
 displeased
 distracted
+Distrustful
 doyagao
 drained
 drawing
@@ -126,16 +159,21 @@ droll
 drunk
 eager
 ecstatic
+Ecstatic
 elated
 embarrassed
+Embarrassed
 embarrassment
 emotionless
 encouraged
+Energetic
 engrossed
 enraged
 enraptured
 enthralled
+Enthusiastic
 envious
+Envious
 envy
 euphoric
 evil
@@ -143,25 +181,31 @@ evil grin
 evil smile
 evil smirk
 excited
+Excited
 excitement
 exhausted
+Exhausted
 expressionless
 extraordinary
 face of the people who sank all their money into the fx
 facepalm
 fascinated
+Fatigued
 fear
 fearful
+Festive
 fingersmile
 flirting
 flirty
 flustered
 foodgasm
 forced smile
+Friendly
 frightened
 frown
 frowning
 frustrated
+Frustrated
 fucked silly
 fulfilled
 full-face blush
@@ -177,27 +221,36 @@ gleeful
 gloating
 gloom (expression)
 gloomy
+Gloomy
 glowering
 glowing
 gobsmacked
 goofy
 grateful
+Grateful
 greedy
+Grief-stricken
 grieving
 grimace
 grin
 grinning
 grossed out
+Grumpy
 guilt
 guilty
 happiness
 happy
+Happy
 heart-shaped eyes
 heartbroken
+Heartbroken
 henohenomoheji
 hesitant
+Hesitant
 hopeful
+Hopeful
 hopeless
+Hopeless
 horrified
 hot
 huffy
@@ -210,28 +263,38 @@ in heat
 in love
 incredulous
 indifferent
+Indifferent
 indignant
 infuriated
 inquisitive
+Inquisitive
 insane
+Insecure
 insulted
 intense
 interest
 interested
 intrigued
+Irritable
+Irritated
 irritated
 jealous
 jealousy
+Jovial
 jovial
+Joyful
 joyful
 joyous
 jubilant
 kubrick stare
 laugh
 laughing
+Lazy
 lazy
 light smile
+Lighthearted
 loathing
+Lonely
 lonely
 lost
 loving
@@ -239,7 +302,9 @@ lustful
 mad
 magnificent
 manic
+Melancholic
 melancholic
+Miserable
 miserable
 mocking
 motivated
@@ -247,6 +312,7 @@ murderous
 naughty face
 naughty_face
 nauseated
+Nervous
 nervous
 neutral
 nonowa
@@ -259,18 +325,26 @@ one eye closed
 one eye closed (winking)
 open mouth
 open-mouthed
+Optimistic
 optimistic
 outstanding
+Overjoyed
 overjoyed
+Overwhelmed
 overwhelmed
 pain
 pained
+Panicked
 panicked
 panicking
 parted lips
+Pensive
 pensive
+Perplexed
 perplexed
+Pessimistic
 phenomenal
+Playful
 playful
 pleading
 pleased
@@ -294,15 +368,20 @@ rape face
 ravenous
 reassured
 reflective
+Regretful
 regretful
+Relaxed
 relaxed
 relief
+Relieved
 relieved
 repulsed
 resentful
+Restless
 restless
 rolling eyes
 rushed
+Sad
 sad
 sad smile
 sadness
@@ -311,6 +390,7 @@ sanguine
 sarcasm
 sarcastic
 satisfaction
+Satisfied
 satisfied
 scared
 scornful
@@ -324,10 +404,12 @@ serious
 shame
 shock
 shocked
+Shy
 shy
 sick
 side-eye
 sigh
+Silly
 silly
 sincere
 skeptical
@@ -343,8 +425,10 @@ smug
 sneer
 sneering
 sobbing
+Solemn
 solid circle eyes
 sorry
+Spirited
 splendid
 squinting
 startled
@@ -352,27 +436,34 @@ starving
 stellar
 stifled laugh
 stoic
+Stressed
 stubborn
 stunned
 stupid
 sulking
 superb
 surprise
+Surprised
 surprised
+Suspicious
 suspicious
 sympathetic
 taunting
+Tearful
 tearful
 tears
 teasing
+Tense
 terrified
 thinking
 thirsty
+Thoughtful
 thoughtful
 thrilled
 tickled
 tight-lipped
 timid
+Tired
 tired
 tongue out
 torogao
@@ -383,11 +474,15 @@ troll_face
 turn pale
 uncertain
 uncomfortable
+Uneasy
+Upbeat
+Uplifted
 upset
 uso da
 uwu
 v-shaped eyebrows
 vengeful
+Vexed
 victorious
 wary
 wavy mouth
@@ -398,15 +493,11 @@ wince
 winking
 withdrawn
 witty
+Worried
 worried
 worry
 x3
 xd
 xd [ xd ]
-\(^o^)/
-^ ^
-^o^
-^q^
-^^^
-^_^
-| |
+Zealous
+Zestful

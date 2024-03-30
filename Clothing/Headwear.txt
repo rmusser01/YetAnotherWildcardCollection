@@ -4,6 +4,7 @@ aviator cap
 balaclava
 bandana
 baseball cap
+Baseball Cap
 beanie
 bear hat
 bearskin cap
@@ -25,6 +26,7 @@ cabbie hat
 campaign hat
 cap
 caps
+Cashmere Scarf
 cat hat
 chef hat
 cloche hat
@@ -62,6 +64,7 @@ keffiyeh
 kepi
 kerchief
 kippah
+Leather Backpack
 mao cap
 mian guan
 mini santa hat
@@ -94,6 +97,7 @@ rice hat
 sailor hat
 sajkaca
 santa hat
+Satchel Bag
 scally cap
 scrunchie
 shako cap

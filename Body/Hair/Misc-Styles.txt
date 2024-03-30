@@ -30,6 +30,7 @@ bubble ponytail
 bun
 buns
 buzz cut
+buzzcut
 chignon
 chonmage
 choppy bangs
@@ -39,6 +40,7 @@ cornrowed mohawk
 cornrows
 crew cut
 crown braid
+curly
 curly bangs
 curtain bangs
 double bun
@@ -167,6 +169,7 @@ updo with pins
 updo with tendrils
 victory rolls
 waterfall braid
+wavy
 wavy bob
 wet and wavy
 wet look

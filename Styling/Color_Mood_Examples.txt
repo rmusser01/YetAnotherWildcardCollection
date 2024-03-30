@@ -1,0 +1,44 @@
+### <a name="colormoods"></a>Color Moods
+ - **Color Mood examples**
+	* `Abstract Watercolor`: A beautiful abstract watercolor painting with vivid colors.
+	* `Aurora Borealis`: The ethereal and colorful Northern Lights dancing in the night sky.
+	* `Autumn Forest`: A forest with trees in various shades of red, orange, and brown.
+	* `Autumn Leaves`: Fallen leaves in various shades of red, orange, and yellow.
+	* `Autumn Vineyard`: Rows of vineyards with autumn leaves changing colors.
+	* `Beach Umbrellas`: Colorful beach umbrellas on a sunny shore.
+	* `Blossoming Cherry Trees`: Cherry blossom trees in full bloom with soft pink petals.
+	* `Bohemian Textiles`: Colorful textiles and fabrics in a bohemian style.
+	* `Butterfly Garden`: A garden filled with butterflies in a range of bright colors.
+	* `Carnival Carousel`: A carousel at a colorful carnival or fair.
+	* `Chinese New Year`: A vibrant Chinese New Year celebration with red lanterns.
+	* `Colorful Balloons`: A bunch of helium balloons in a variety of bright colors.
+	* `Colorful Bird Feathers`: Close-up of exotic birds with vibrant plumage.
+	* `Colorful Frosted Cupcakes`: A selection of frosted cupcakes in a bakery.
+	* `Colorful Hot Air Balloons`: A sky filled with a variety of colorful hot air balloons.
+	* `Colorful Street Art`: Vibrant street art pieces adorning urban walls.
+	* `Colorful Street Market`: A bustling street market filled with vibrant fruits, textiles, and people.
+	* `Desert Sunrise`: A desert landscape bathed in warm, golden hues during sunrise.
+	* `Evening City Lights`: A cityscape at dusk with bright, colorful lights.
+	* `Fiery Red Sky`: A dramatic and fiery red sky during a sunset.
+	* `Golden Fields`: Fields of wheat or sunflowers in golden hues.
+	* `Graffiti Art`: A vibrant and intricate graffiti mural on a city wall.
+	* `Green Rolling Hills`: Lush green hills and meadows stretching into the distance.
+	* `Holi Festival`: People celebrating the Holi Festival, throwing colorful powders.
+	* `Holi Powder Clouds`: People at the Holi Festival creating clouds of colorful powders.
+	* `Monochromatic Blue`: A composition dominated by various shades of blue.
+	* `Mountain Sunrise`: Snow-capped mountains glowing in the warm light of sunrise.
+	* `Mountain Wildflowers`: Wildflowers in a mountain meadow with various colors.
+	* `Neon Cityscape`: A futuristic cityscape with neon lights and vibrant colors.
+	* `Northern Lights`: The magical display of the Northern Lights in the night sky.
+	* `Orchard in Bloom`: An orchard filled with blossoming fruit trees.
+	* `Paint Palette`: A palette of vivid paint colors and brushes ready for an artist.
+	* `Peaceful Lavender Fields`: Fields of fragrant lavender in various shades of purple.
+	* `Rainbow Over Waterfall`: A rainbow arching over a cascading waterfall.
+	* `Rainbow Umbrellas`: A street filled with colorful umbrellas, suspended in the air.
+	* `Subtle Pastels`: A collection of soft and subtle pastel-colored objects.
+	* `Tropic Sunset`: A tropical beach with a stunning sunset of vivid colors.
+	* `Tropical Paradise`: A tropical beach with turquoise waters, palm trees, and vibrant flowers.
+	* `Underwater Coral Reef`: A colorful and diverse underwater coral reef.
+	* `Underwater Paradise`: A colorful underwater world with tropical fish and coral.
+	* `Vibrant Sunset`: A stunning sunset with a palette of warm and vivid colors.
+	* `Vintage Color Palette`: A collection of vintage items with a classic color scheme.

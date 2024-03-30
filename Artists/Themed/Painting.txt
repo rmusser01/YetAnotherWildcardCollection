@@ -6,6 +6,7 @@ Akseli Gallen-Kallela
 Alan Bean
 Albert Gleizes
 Albin Egger-Lienz
+Albrecht Dürer
 Aleksey Savrasov
 Alex Andreev
 Alex Maleev
@@ -19,20 +20,25 @@ Android Jones
 Aneurin Jones
 Anka Zhuravleva
 Antoine Blanchard
-Antonio Mancini
 Antonin Slavi?ek
+Antonio Mancini
 Arkhip Kuindzhi
 Arkhyp Kuindzhi
 Artem Chebokha
 Arthur Melville
+Bartholomeus van der Helst
+Bela Czobel
+Bernardo Bellotto
 Blanche Hoschede Monet
 Bohumil Kubista
 Bridget Bate Tichenor
-Bela Czobel
 Camille Pissarro
+Caravaggio
 Carel Weight
+Caspar David Friedrich
 Catherine Hyde
 Cecilia Beaux
+Cezanne
 Chaim Soutine
 Childe Hassam
 Chuck Close
@@ -40,7 +46,6 @@ Claude Monet
 Clyfford Still
 Colin Campbell Cooper
 Cornelis de Heem
-Cezanne
 Daniel Chodowiecki
 Daniel F. Gerhartz
 Daniel Garber
@@ -66,6 +71,7 @@ Esao Andrews
 Etel Adnan
 Eugene Boudin
 Eugene Carriere
+Eugène Delacroix
 Fairfield Porter
 Felice Casorati
 Fernand Khnopff
@@ -82,7 +88,9 @@ Gregory Manchess
 Grzegorz Rutkowski
 Gustaf Munch-Petersen
 Gustaf Tenggren
+Gustav Klimt
 Gustave Caillebotte
+Gustave Courbet
 Guy Denning
 Guy Rose
 Haddon Sundblom
@@ -90,6 +98,7 @@ Hans Makart
 Harriet Backer
 Helen Frankenthaler
 Helene Knoop
+Henri de Toulouse-Lautrec
 Henri Le Sidaner
 Henry Ossawa Tanner
 Henryk Rodakowski
@@ -101,18 +110,23 @@ Ilya Repin
 Ilya Yefimovich Repin
 Issac Levitan
 J.M.W. Turner
+James Abbott McNeill Whistler
 James Ensor
 Jean-Leon Gerome
 Jean-Paul Riopelle
 Jeremy Lipking
 Jeremy Mann
 Joaquin Sorolla
+Johannes Brahms
+Johannes Vermeer
+John Constable
 John Salminen
 John Singer Sargent
 Kathryn Morris Trotter
 Konstantin Korovin
 Larry Poons
 Leon Kossoff
+Leonardo da Vinci
 Leonid Afremov
 Lovis Corinth
 Malcolm Liepke
@@ -120,25 +134,37 @@ Marat Latypov
 Marsden Hartley
 Maximilien Luce
 Michal Lisowski
+Michelangelo Buonarroti
 Mikhail Vrubel
 NC Wyeth
 Norman Ackroyd
 Norman Rockwell
 Odilon Redon
 Oskar Kokoschka
+Pablo Picasso
 Patricia Polacco
 Paul Cezanne
+Paul Cézanne
+Paul Gauguin
+Peter Paul Rubens
+Pierre-Auguste Renoir
+Raphael (Raffaello Sanzio Da Urbino)
+Rembrandt
 Richard Eurich
 Robert McCall
 Robert Rauschenberg
 Robert Vonnoh
 Samuel Melton Fisher
+Sandro Botticelli
 Scott Naismith
 Sidney Nolan
 Stephen Gammell
 Stephen Shore
 Thomas Eakins
+Titian
 Umberto Boccioni
 Viktor Vasnetsov
+Vincent van Gogh
 Vincent Van Gogh
+William Turner
 Yohann Schepacz
