@@ -1,0 +1,357 @@
+abbot
+abjurer
+able-bodied seaman
+accountant
+Activist
+activist
+actor
+actress
+actuary
+adhesive bonding machine tender
+adjudicator
+administrative assistant
+administrative services manager
+administrator/apartment manager/dormitory manager/system administrator
+admiral
+adult education teacher
+adventurer
+advertising manager
+advertising sales agent
+aerobics instructor
+aerospace engineer
+aerospace engineering technician
+agent
+agricultural engineer
+agricultural equipment operator
+agricultural grader
+agricultural inspector
+Air Force Intelligence
+Air Force Security Forces
+Air Force Weather
+air hostess
+air pirate
+Air Traffic Controllers
+Aircraft Maintenance Technicians
+Aircrew
+Airman,annalist
+alchemist
+Anarchist
+animal caretaker
+anti-hero/super anti-hero
+arcanist
+archaeologist
+archer/sharpshooter
+architect
+artificer
+Artillery
+Artilleryman
+artisan
+artist
+artist painter
+assassin
+assistant
+astromancer
+astronaut
+athlete
+backpacker
+bandit
+barber
+bard
+bartender
+battlemage
+beastmaster
+bicyclist
+blacksmith
+blue-collar worker
+body double
+bodyguard
+bounty hunter
+burglar
+bus driver
+businessmen
+butcher
+butler
+Calvary
+captain
+carpenter
+cashier
+Cashier
+Cavalryman
+chef
+chemist
+chess player
+chronomancer
+civil servant
+clergyman
+client
+coach
+colonel
+commander
+Communications
+Communications Specialist
+Communist
+commuter
+con artist
+conductor
+conjurer
+construction worker
+consumer
+corporal
+corpse remover
+counselor
+craftsman
+croupier
+cultivator/immortal cultivator
+Customer Service Representative
+cyclist
+Democrat
+demolition expert
+demon hunter/exorcist/monster hunter
+demonologist
+dentist
+Department Manager
+designer
+detective
+Diplomat
+diplomat
+discoverer
+diviner/feng shui master
+dj
+doctor
+dominatrix
+dragonslayer
+driver
+druid
+dual cultivation of martial arts and magic
+electrician
+elementalist
+elevator girl
+employer
+enchanter
+engineer
+Engineer
+esports player
+eunuch
+excursionist
+executioner
+explorer
+familiar
+farmer
+farmer/agriculturist
+firefighter
+flight attendant
+florist
+follower
+gadabout
+gallivanter
+garbage collector
+gatekeeper
+geisha
+general
+globetrotter
+guard
+guardian
+gunner's mate
+hacker
+hair stylist
+hero/superhero
+hikikomori
+hitman
+holidaymaker
+housekeeper
+hunter
+idol
+Infantry
+Infantryman
+Intelligence
+Intelligence Analyst
+inventor
+janitor
+jet-setter
+journeyer
+judge
+Judge
+kamen rider
+knight
+landscaper
+Lawyer
+lawyer
+lawyers
+leader
+Liaison Officer
+Libertarian
+librarian
+lieutenant
+lifeguard
+listener
+Lobbyist
+Logisticics
+lumberjack
+mage/wizard/elementalist/necromancer/summoner
+magical girl/witch/magic boy
+mahjong player
+maid
+mail carrier
+Maintenance
+Marine
+martial artist
+mechanic
+Medic
+mercenary
+Merchandiser
+merchant
+miko
+military officer (general/marshal)
+miner
+monk
+monk/nun
+mortician
+musician
+nanny
+navigator
+necromancer
+ninja
+nun
+nurse
+office lady
+officer
+Ordnance
+paladin
+paladin/dark knight/death knight/dragon rider
+Pararescuemen
+party leader
+passenger
+patient
+pedestrian
+pharmacist
+philanthropist
+photographer
+pilgrim
+pilot
+Pilot
+plague doctor
+plitician
+plumber
+police
+police officer
+political officer
+politician
+postman
+priest
+priest/nun
+prisoner
+private
+private enforcer
+professional gamer
+professor
+programmer
+Progressive
+prospector
+prostitution
+Protester
+Psychic
+quartermaster
+racing girl/racer
+radarman
+receptionist
+Recon
+Reconnaissance Specialist
+reconnoitrer
+registered nurse
+religious leader
+Republican
+Retail Associate
+Retail Clerk
+Retail Sales Associate
+Retail Stocker
+Retail Supervisor
+revolutionary
+robot pilot
+rover
+runemaster
+sage
+sailor
+Sailor
+saint
+salaryman
+salesperson
+samurai
+sanitation worker
+scholar
+school nurse
+scientist
+scout
+seaman
+secretary
+sergeant
+shepherd
+shinto shrine maiden/shaman
+shopper
+sightseer
+slave
+Sniper
+sniper
+social worker
+Socialist
+software engineer
+soldier
+Soldier
+sonarman
+sorcerer
+speaker
+specialist
+SpecOps
+spy
+Spy
+standard-bearer
+Store Manager
+storekeeper
+strategist
+stripper
+student
+summoner
+super soldier
+super villain/super antagonist
+supervisor
+Supply
+surveyor
+swordsman/sword saint
+system
+tactician
+Tank Crewman
+Tanker
+taoist priest/taoist nun
+taxi driver
+teacher
+terrorist
+Terrorist
+thaumaturge
+thief/bandit/phantom thief/pirate
+tourer
+tourist
+Traditionalist
+train attendant
+train conductor
+traveller
+trooper
+trucker
+Uber driver
+vacationer
+vacationist
+veterinarian
+visitor
+voyager
+waiter
+waitress
+wanderer
+warlord
+warrior
+web developer
+wet nurse
+Wingman
+witch
+wizard
+worker
+writer
+yeoman
+yin-yang master

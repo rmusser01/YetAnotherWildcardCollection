@@ -1,0 +1,8 @@
+animal focus
+book focus
+cloud focus
+food focus
+text focus
+vehicle focus
+weapon focus
+wind chime focus

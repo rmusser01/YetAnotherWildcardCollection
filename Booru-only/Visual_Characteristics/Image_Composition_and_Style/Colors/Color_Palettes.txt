@@ -1,0 +1,10 @@
+dark
+monochrome
+greyscale
+muted color
+neon palette
+pale color
+pastel colors
+rainbow
+rainbow order
+sepia

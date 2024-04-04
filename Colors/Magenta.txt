@@ -1,5 +1,0 @@
-magenta
-dark magenta
-light magenta
-pink
-fuchsia
