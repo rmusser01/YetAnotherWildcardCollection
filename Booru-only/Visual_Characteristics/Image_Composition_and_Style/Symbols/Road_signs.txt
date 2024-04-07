@@ -1,0 +1,22 @@
+Bicycles only sign
+Bus stop
+Falling rocks sign
+Motor vehicles only sign
+No parking sign
+No pedestrian crossing sign
+No stopping sign
+No U-turn sign
+One way sign
+Parking permissive sign
+Pedestrian crossing sign
+Pedestrians only sign
+Railroad crossing ahead sign
+Road closed to Vehicles sign
+Road narrows sign
+School crossing sign
+Speed limit sign
+Stop sign
+Straight or left turn sign
+Straight or right turn sign
+Turn left sign
+Turn right sign

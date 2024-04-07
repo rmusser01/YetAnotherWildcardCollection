@@ -1,0 +1,25 @@
+Tag group:Text
+Tag group:Year tags
+!
+spoken exclamation mark
+!?
+spoken interrobang
+?
+spoken question mark
+...
+spoken ellipsis
+@
+Equal sign // =
+Infinity symbol // ∞
+Kanji
+Dao Fu // reversed 福
+Heaven kanji // 天
+Two-legged horse kanji
+Minus sign // -
+Omega symbol // Ω
+Pi (math) // π
+Runes
+Sigrunen // ᛋᛋ
+Segment display
+Seven-segment display
+Z (Russian symbol)

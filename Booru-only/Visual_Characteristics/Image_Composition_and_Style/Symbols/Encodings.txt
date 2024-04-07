@@ -1,0 +1,2 @@
+Barcode
+QR code

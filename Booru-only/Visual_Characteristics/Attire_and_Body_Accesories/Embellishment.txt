@@ -1,0 +1,4 @@
+gem-studded
+glitter
+lace
+sequins

@@ -25,7 +25,7 @@ Catalogs:
 	* https://rentry.org/NAIwildcards
 	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
 	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
-
+https://github.com/mattjaybe/sd-wildcards
 
 
 
@@ -43,8 +43,22 @@ Wildcard files are simple text - one entry per line.
 Wildcards can contain prompt-syntax (eg another wildcard inside the wildcard, or a preset, or whatever you want)
 Use # to comment a line (not count in the options list).
 
-
-
+Booru Prompts tag categories not included:
+	- symbols
+		* Symbols from the real world
+		* Symbols of specific series/mangas/games/etc.
+	- Body :
+		* face -> Sexual
+		* Upper Torso -> Breasts
+		* Lower Toros -> All of them.
+		* Anything involving genitals
+	- Attire and body accessories
+		* Sexual attire
+		* Nudity
+	- Sex
+	- Objects:
+		* Piercings -> Genital piercings
+		* Sex objects
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -188,6 +202,7 @@ Use # to comment a line (not count in the options list).
 		* Actions
 		* Did not create txts for language lists.
 	- **Symbols**
+		* 
 	- **Year tags**
 		* Nah.
 - **Body**

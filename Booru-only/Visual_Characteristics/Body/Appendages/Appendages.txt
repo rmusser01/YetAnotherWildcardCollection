@@ -1,0 +1,11 @@
+arms
+feet
+hands
+joints
+knees
+legs
+tail
+tentacles
+thighs
+toes
+wings

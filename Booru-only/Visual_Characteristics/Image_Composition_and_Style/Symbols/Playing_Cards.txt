@@ -1,0 +1,5 @@
+Clubs // ♣
+Diamonds // ♦
+Hearts // ♥
+Spades // ♠
+Playing card theme
