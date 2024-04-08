@@ -1,0 +1,15 @@
+ADF-01 Falken
+ADF-11F Raven
+ADFX-01 Morgan
+ADFX-02 Morgan
+ADFX-10
+ADFX-10F
+Arsenal Bird
+Curtiss R3C-0
+GAF-1
+R-101 Delphinus I
+R-102 Delphinus II
+R-103 Delphinus III
+Savoia S.21
+T-65 X-wing
+X-02 Wyvern

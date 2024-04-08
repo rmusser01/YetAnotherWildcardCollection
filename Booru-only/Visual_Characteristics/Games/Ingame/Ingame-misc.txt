@@ -1,0 +1,3 @@
+sprite
+player 2
+save point

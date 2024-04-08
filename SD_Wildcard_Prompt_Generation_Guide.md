@@ -43,7 +43,7 @@ Wildcard files are simple text - one entry per line.
 Wildcards can contain prompt-syntax (eg another wildcard inside the wildcard, or a preset, or whatever you want)
 Use # to comment a line (not count in the options list).
 
-Booru Prompts tag categories not included:
+- Booru Prompts tag categories not included:
 	- symbols
 		* Symbols from the real world
 		* Symbols of specific series/mangas/games/etc.
@@ -59,7 +59,9 @@ Booru Prompts tag categories not included:
 	- Objects:
 		* Piercings -> Genital piercings
 		* Sex objects
-
+- Booru tags not sorted fully:
+	* https://danbooru.donmai.us/wiki_pages/list_of_ships
+	* https://danbooru.donmai.us/wiki_pages/list_of_ground_vehicles
 
 ---------------------------------------------------------------------------------------------------------
 ### 101/What is this?

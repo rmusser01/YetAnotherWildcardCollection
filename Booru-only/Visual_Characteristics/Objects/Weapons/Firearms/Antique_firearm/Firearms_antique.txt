@@ -1,0 +1,9 @@
+Arquebus
+Blunderbuss
+Derringer
+Firelock
+Caplock
+Flintlock
+Jezail
+Matchlock
+Musket

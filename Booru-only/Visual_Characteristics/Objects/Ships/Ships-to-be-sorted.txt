@@ -1,0 +1,278 @@
+Categories
+
+    Aircraft carrier
+    Battleship
+    Cruiser
+    Destroyer
+    Submarine
+
+Japan
+Aircraft carrier
+
+    Akagi
+    Hakuryuu
+    Hiryuu
+    Houshou
+    Jun'you
+    Shinano
+    Shouhou
+    Shoukaku
+    Souryuu
+    Taihou
+    Uryuu
+    Zuihou
+    Zuikaku
+
+Battleship
+
+    Kongou
+    Nagato
+    Yamato
+    Mikasa
+    Haruna
+    Musashi
+    Kaga
+    Fusou
+    Ise
+    Kirishima
+    Hiei
+    Mutsu
+    Hyuuga
+    Shikishima
+
+Destroyer
+
+    Akatsuki
+    Akizuki
+    Amatsukaze
+    Arashio
+    Asashio
+    Ayanami
+    Fubuki
+    Hamakaze
+    Hanazuki
+    Hatsuharu
+    Hatsuyuki
+    Hayashimo
+    Hibiki
+    Ikazuchi
+    Inazuma
+    Iwanami
+    Kamikaze
+    Kasumi
+    Kisaragi
+    Kiyoshimo
+    Kuroshio
+    Michishio
+    Mochizuki
+    Murakumo
+    Mutsuki
+    Naganami
+    Sawarabi
+    Shigure
+    Shimakaze
+    Shimakaze
+    Shiranui
+    Suzutsuki
+    Teruzuki
+    Tokitsukaze
+    Tsubaki
+    Ushio
+    Uzuki
+    Yukikaze
+    Yuudachi
+
+Cruiser
+
+    Abukuma
+    Aoba
+    Ashigara
+    Atago
+    Choukai
+    Furutaka
+    Hashidate
+    Itsukushima
+    Kasuga
+    Katori
+    Kiso
+    Kitakami
+    Kumano
+    Matsushima
+    Maya
+    Mikuma
+    Mogami
+    Myoukou
+    Naka
+    Suzuya
+    Takao
+    Tama
+    Yahagi
+    Yoshino
+    Yura
+
+Submarine
+
+    I-8
+    I-19
+    I-41
+    I-46
+    I-58
+    I-68
+    I-69
+    I-70
+    I-400
+    I-401
+
+United States
+Battleship
+
+    Regular
+        USS Arizona (BB-39)
+        USS Arkansas (BB-33)
+        USS California (BB-44)
+        USS Colorado (BB-45)
+        USS Florida (BB-30)
+        USS Indiana (BB-58)
+        USS Iowa (BB-61)
+        USS Kentucky (BB-66)
+        USS Maryland (BB-46)
+        USS Missouri (BB-63)
+        USS Montana (BB-67)
+        USS Nevada (BB-36)
+        USS New Jersey (BB-62)
+        USS New York (BB-34)
+        USS North Carolina (BB-55)
+        USS Oklahoma (BB-37)
+        USS Pennsylvania (BB-38)
+        USS South Dakota (BB-57)
+        USS Tennessee (BB-43)
+        USS Washington (BB-56)
+        USS West Virginia (BB-48)
+        USS Wisconsin (BB-64)
+
+Aircraft carrier
+
+    Light
+        USS Independence (CVL-22)
+        USS Saipan (CVL-48)
+    Regular
+        USS Boxer (CV-21)
+        USS Enterprise (CV-6)
+        USS Essex (CV-9)
+        USS Hornet (CV-12)
+        USS Hornet (CV-8)
+        USS Independence (CV-62)
+        USS Intrepid (CV-11)
+        USS Kitty Hawk (CV-63)
+        USS Langley (CV-1)
+        USS Lexington (CV-16)
+        USS Lexington (CV-2)
+        USS Ranger (CV-4)
+        USS Ranger (CV-61)
+        USS Saratoga (CV-3)
+        USS Wasp (CV-18)
+        USS Wasp (CV-7)
+        USS Yorktown (CV-10)
+        USS Yorktown (CV-5)
+    Nuclear
+        USS Enterprise (CVN-65)
+        USS George H.W. Bush (CVN-77)
+        USS Gerald R Ford (CVN-78)
+        USS John F Kennedy (CVN-67)
+        USS Ronald Reagan (CVN-76)
+        USS Theodore Roosevelt (CVN-71)
+
+Destroyer
+
+    Regular
+        USS Arleigh Burke (DDG-51)
+        USS Chevalier (DD-805)
+        USS Converse (DD-509)
+        USS Corry (DD-463)
+        USS Edsall (DD-219)
+        USS Everett f. larson (DD-830)
+        USS Johnston (DD-557)
+        USS Laffey (DD-459)
+        USS Mahan (DD-364)
+        USS Maury (DD-401)
+        USS Michael monsoor (DD-1001)
+        USS New (DD-818)
+        USS O'bannon (DD-450)
+        USS Shaw (DD-373)
+        USS Smith (DD-378)
+        USS Stewart (DD-224)
+        USS Yarnall (DD-541)
+        USS Zumwalt (DD-1000)
+    Escort
+        USS Samuel B Roberts (DE-413)
+
+Submarine
+
+    Attack
+        USS Albacore (SS-218)
+        USS Archerfish (SS-311)
+        USS Cavalla (SS-244)
+        USS Charr (SS-328)
+        USS Dace (SS-247)
+        USS Dolphin (SS-169)
+        USS Gato (SS-212)
+        USS Jallao (SS-368)
+        USS Mingo (SS-216)
+        USS Narwhal (SS-167)
+        USS Redfish (SS-395)
+        USS Sculpin (SS-191)
+        USS Skate (SS-305)
+        USS Spadefish (SS-411)
+    Attack (nuclear)
+        USS Nautilus (SSN-571)
+    Ballistic (nuclear)
+        USS Alabama (SSBN-731)
+
+Cruiser
+
+    Light
+        USS Atlanta (CL-51)
+        USS Boise (CL-47)
+        USS Helena (CL-50)
+        USS Marblehead (CL-12)
+        USS Mobile (CL-63)
+        USS Phoenix (CL-46)
+        USS Raleigh (CL-7)
+        USS San Diego (CL-53)
+        USS Santa Fe (CL-60)
+    Armored
+        USS Astoria (CA-34)
+        USS Chester (CA-27)
+        USS Chicago (CA-29)
+        USS Des Moines (CA-134)
+        USS Houston (CA-30)
+        USS Indianapolis (CA-35)
+        USS Louisville (CA-28)
+        USS Newport News (CA-148)
+        USS Northampton (CA-26)
+        USS Pensacola (CA-24)
+        USS Quincy (CA-39)
+        USS Salem (CA-139)
+        USS Salt Lake City (CA-25)
+        USS San Francisco (CA-38)
+    Large
+        USS Alaska (CB-1)
+    Guided Missile
+        USS Ticonderoga (CG-47)
+    Protected
+        USS St. Louis (C-20)
+
+Other
+
+    Littoral Combat
+        USS Independence (LCS-2)
+    Fast Combat Support
+        USS Camden (AOE-2)
+    Repair
+        USS Medusa (AR-1)
+    No Classification
+        USS Constitution
+        USS Monitor
+        USS Powhatan
+
+ 

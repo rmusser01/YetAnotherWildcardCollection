@@ -1,0 +1,39 @@
+Daihatsu Midget
+Tuk-Tuk
+Honda Civic
+Honda NSX
+Honda S2000
+Isuzu Elf
+Mazda 2
+Mazda 3
+Mazda Cosmo
+Mazda RX-7
+Mazda RX-8
+Mitsubishi Fuso
+Mitsubishi Lancer Evolution
+Nissan 180sx
+Nissan 350z
+Nissan Fairlady
+Nissan GT-R
+Nissan IDx
+Nissan S13 Silvia
+Nissan S15 Silvia
+Nissan Sileighty
+Nissan Skyline
+Subaru 360
+Subaru BRZ
+Subaru Impreza
+Suzuki Gixxer SF 250
+Toyota 86
+Toyota Corolla
+Toyota Corolla AE85
+Toyota Corolla AE86
+Toyota Crown
+Toyota Hiace
+Toyota Hilux
+Toyota MR2
+Toyota Sprinter Trueno
+Toyota Sports 800
+Toyota Starlet
+Toyota Supra
+

@@ -1,0 +1,15 @@
+Caterpillar tracks
+Exhaust
+Hatch
+License plate
+Mine roller
+Steering wheel
+Tank gun
+Turret
+Tank turret
+Vehicle interior
+Tank interior
+Vehicle muffler
+Wheel
+Tire
+Spare tire

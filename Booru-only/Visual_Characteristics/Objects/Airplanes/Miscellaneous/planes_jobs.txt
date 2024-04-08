@@ -1,0 +1,400 @@
+Military
+China
+
+    J-7
+    J-8
+    J-10
+        J-10B
+    J-15
+    J-16
+    J-20
+    J-31
+    JH-7
+    H-6
+    KJ-200
+
+France
+
+    Breguet 14
+    Mirage III
+    Mirage 2000
+    Besson MB.411
+    Dassault Rafale
+    VG-33
+    Loire 130
+
+Germany
+
+    Albatros DIII
+    AR 196
+    BF 109
+    BF 110
+    BV 138
+    BV 155
+    D.VII
+    DO 24
+    DO 335
+    DR.i
+    EF 128
+    FI 156
+    FI 167
+    FW 58
+    FW 190
+    FW 200
+    HE 59
+    HE 100
+    HE 111
+    HE 115
+    HE 162
+    HE 219
+    HE 280
+    HE Lerche
+    HS 123
+    HS 129
+    HO 229
+    JU 52
+    JU 87
+    JU 88
+    JU 290
+    ME 163
+    ME 210
+    ME 262
+    ME 321
+    ME 410
+    TA 152
+    TA 154
+    TA 183
+    Triebfluegel
+
+Italy
+
+    Cant 25
+    Z.506 Airone
+    CR.42 Falco
+    G.50 Freccia
+    G.55 Centauro
+    Imam RO.43
+    MC.200 Saetta
+    MC.202 Folgore
+    MC.205 Veltro
+    SM.79 Sparviero
+
+Japan
+
+    A5M
+    A6M Zero
+        A6M2-N
+    A7M Reppuu
+    Aichi H9A
+    B5N
+    B6N Tenzan
+    B7A Ryuusei
+    C5M
+    C6N Saiun
+    D3A
+    D4Y Suisei
+    E-767
+    E13A
+    E16A Zuiun
+    F-1
+    F-2
+    F1M
+    G4M
+    G8N Renzan
+    G10N Fugaku
+    H6K
+    H8K
+    M6A Seiran
+    MXY-7 Ohka
+    N1K
+    J1N Gekkou
+    J2M Raiden
+    J4M Senden
+    J7W Shinden
+    J8M Shuusui
+    Kikka
+    Katsuodori ramjet plane
+    Ki-15
+    Ki-20
+    Ki-27
+    Ki-43 Hayabusa
+    Ki-44 Shouki
+    Ki-45 Toryu
+    Ki-46
+    Ki-49 Donryuu
+    Ki-61 Hien
+    Ki-67
+    Ki-84 Hayate
+    Ki-98
+    Ki-100
+    Ki-201 Karyuu
+    P-1
+    P-2
+    P1Y
+    Q1W Toukai
+    T-4
+    T-2
+    US-2
+    Type88 light bomber
+    X-2 Shinshin
+
+Multinational
+
+    EF Typhoon
+    Panavia Tornado
+
+Russia/Soviet Union
+
+    I-152
+    I-153
+    I-16
+    IL-2
+    IL-4
+    LA-5
+    LA-7
+    LA-11
+    LaGG-3
+    MiG-1
+    MiG-1.44
+    MiG-15
+    MiG-17
+    MiG-21
+    MiG-23
+    MiG-25
+    MiG-29
+    MiG-31
+    PO-2
+    SU-24
+    SU-27
+    SU-30
+    SU-33
+    SU-34
+    SU-35
+    SU-37
+    SU-47 Berkut
+    SU-57 / PAK FA
+    TU-22
+    TU-22M
+    TU-28
+    TU-95
+    TU-160
+    Yak-1
+    Yak-9
+    Yak-28
+    Yak-141
+
+Sweden
+
+    Saab Draken
+    Saab Gripen
+    Saab Viggen
+
+United Kingdom
+
+    Airco DH.4
+    Fairey Barracuda
+    Bristol Beaufighter
+    Blackburn Buccaneer
+    Sopwith Camel
+    Bolton-Paul Defiant
+    Fairey Firefly
+    Fairey Gannet
+    Hawker Harrier
+    Hawker Hurricane
+    Avro Lancaster
+    Gloster Meteor
+    De Havilland Mosquito
+    Blackburn Roc
+    Hawker Sea Fury
+    Hawker Tempest
+    Hawker Typhoon
+    Supermarine Scimitar
+    Supermarine Spitfire
+        Supermarine Seafire
+    Supermarine Spiteful
+    De Havilland Sea Vixen
+    Gloster Sparrowhawk
+    Fairey Swordfish
+    De Havilland Tiger Moth
+    Hawker Tornado
+    BAC TSR-2
+    De Havilland Vampire
+    Avro Vulcan
+    Westland Lysander
+    Westland Wyvern
+
+United States
+
+    A-1 Skyraider
+    A-4 Skyhawk
+    A-5 Vigilante
+    A-6 Intruder
+    A-10 Thunderbolt II
+    AC-130 Spectre
+    A2D Skyshark
+    B-1 Lancer
+    B-2 Spirit
+    B-17 Flying Fortress
+    B-24 Liberator
+    B-25 Mitchell
+    B-29 Superfortress
+    B-36 Peacemaker
+    B-52 Stratofortress
+    C-5M Super Galaxy
+    C-46 Commando
+    C-47
+    C-130 Hercules
+    C-141 Starlifter
+    E-2 Hawkeye
+    E-3 Sentry
+    EA-6 Prowler
+    F-4 Phantom II
+    F-5 Freedom Fighter
+    F-8 Crusader
+    F-11 Tiger
+    F-14 Tomcat
+    F-15 Eagle
+        F-15S/MTD
+    F-16 Fighting Falcon
+    F-18 Hornet
+        F/A-18E Super Hornet
+    F-20 Tigershark
+    F-22 Raptor
+    F-35 Lightning II
+    F-86 Sabre
+        F-86D Sabre
+    F-94 Starfire
+    F-104 Starfighter
+    F-105 Thunderchief
+    F-106 Delta Dart
+    F-111 Aardvark
+    F-117 Nighthawk
+    FH Phantom
+    F2A Buffalo
+    F2Y Sea Dart
+    F4F Wildcat
+    F4U Corsair
+    F6F Hellcat
+    F7F Tigercat
+    F8F Bearcat
+    F9C Sparrowhawk
+    FM-2 Wildcat
+    JRM Mars
+    J2F Duck
+    KC-10 Extender
+    KC-135 Stratotanker
+    OV-10 Bronco
+    P-38 Lightning
+    P-39 Airacobra
+    P-40 Warhawk
+    P-47 Thunderbolt
+    P-51 Mustang
+    P-61 Black Widow
+    P-75 Eagle
+    P-80 Shooting Star
+    P-82 Twin Mustang
+    P6M SeaMaster
+    PBY Catalina
+    SR-71 Blackbird
+    SBD Dauntless
+    SB2C Helldiver
+    T-6 Texan
+    T-38 Talon
+    TBD Devastator
+    TBF Avenger
+    U-2 Dragon Lady
+    V-22 Osprey
+    X-1
+    XF5U
+    XFY-1
+    X-15
+    X-24
+    X-29
+    X-36
+    XB-35
+    XF-85 Goblin
+    XP-79
+
+Civilian
+
+    Airbus A320
+    Airbus A330
+    Airbus A340
+    Airbus A350
+    Airbus A380
+    Antonov An-148
+    Antonov An-225
+    Boeing 727
+    Boeing 747
+    Boeing 767
+    Boeing 787
+    McDonnell Douglas DC-10
+    McDonnell Douglas MD-11
+
+Fictional
+
+    ADF-01 Falken
+    ADF-11F Raven
+    ADFX-01 Morgan
+    ADFX-02 Morgan
+    ADFX-10
+        ADFX-10F
+    Arsenal Bird
+    Curtiss R3C-0
+    GAF-1
+    R-101 Delphinus I
+    R-102 Delphinus II
+    R-103 Delphinus III
+    Savoia S.21
+    T-65 X-wing
+    X-02 Wyvern
+
+Miscellaneous
+Airlines/Aerobatic teams
+
+    Alitalia
+    All Nippon Airways
+    Blue Angels
+    Blue Impulse
+    Cathay Pacific
+    Japan Airlines
+    Patrouille Suisse
+    Qantas
+    Singapore Airlines
+    Thunderbirds
+
+Air Forces
+
+    Islamic Republic of Iran Air Force
+    Imperial German Flying Corps
+    Luftwaffe
+    Japan Air Self-Defense Force
+    People's Liberation Army Air Force
+    Regia Aeronautica
+    Royal Air Force
+    Russian Air Force
+    Soviet Air Force
+    United States Air Force
+
+Airplane parts
+
+    afterburner
+    airbrake
+    airplane interior
+    canards
+    canopy
+    cockpit
+        glass cockpit
+        open cockpit
+    contra-rotating propellers
+    drop tank
+    landing gear
+    pontoon
+    propeller
+
+Anti-aircraft weapons
+
+    88 Flak
+    anti-aircraft gun
+    flak
+    missile

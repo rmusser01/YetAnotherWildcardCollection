@@ -1,0 +1,33 @@
+banjo
+balalaika
+bass guitar
+bow
+cello
+double bass
+electric double bass
+erhu
+gayageum
+guitar
+guqin
+guzheng
+harp
+lyre
+kantele
+kokyuu
+koto
+lute
+biwa lute
+mandolin
+morin khuur
+pipa
+plectrum
+ruan
+sitar
+shamisen
+tonkori
+ukulele
+viola
+violin
+wolgeum
+yueqin
+zither

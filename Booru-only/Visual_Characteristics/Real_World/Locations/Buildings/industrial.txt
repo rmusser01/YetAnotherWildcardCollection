@@ -1,0 +1,6 @@
+factory
+refinery
+powerplant
+nuclear powerplant
+cooling tower
+warehouse

@@ -1,0 +1,15 @@
+AR-10
+ASh-12.7
+CETME Model 58
+Fedorov Avtomat
+FG42
+FN FAL
+FN SCAR 17
+H&K G28
+H&K G3
+H&K HK51
+H&K HK417
+Howa Type 64
+M14
+SIG SG510
+

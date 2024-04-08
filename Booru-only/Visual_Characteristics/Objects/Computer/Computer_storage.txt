@@ -1,0 +1,6 @@
+CD
+DVD
+Floppy disk
+MiniDisc
+SD card when with card-reader
+

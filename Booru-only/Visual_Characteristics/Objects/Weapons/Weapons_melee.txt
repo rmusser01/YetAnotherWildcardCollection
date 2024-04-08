@@ -1,0 +1,87 @@
+arm blade
+axe
+battle axe
+tomahawk
+ball and chain
+baton
+bayonet
+expandable baton
+bo staff
+club
+kanabou
+double-blade
+flail
+spiked ball and chain
+gunblade
+hammer
+sledgehammer
+war hammer
+jitte
+jamadhar
+knife
+combat knife
+dagger
+kris
+kukri
+kunai
+mace
+machete
+macuahuitl
+nunchaku
+polearm
+glaive
+halberd
+nagimaki
+naginata
+partisan
+sasumata
+scythe
+sickle
+spear
+bident
+fangtian ji
+lance
+trident
+yari
+juumonji yari
+sai
+switch axe
+sword
+long sword
+Kriegsmesser
+Szczerbiec
+concealed weapon
+jian
+dao
+katana
+chokutou
+nagamaki
+ootachi
+tachi
+short sword
+kodachi
+ninjatou
+tantou
+cutlass
+rapier
+saber
+scimitar
+shashka
+shotel
+greatsword
+Zweihander
+Flamberge
+whip sword
+crystal sword
+energy sword
+lightsaber
+saberstaff
+beam saber
+windfire wheel
+three section staff
+Training weapons
+shinai
+wooden sword
+bokken
+tonfa
+

@@ -1,0 +1,4 @@
+bathroom
+bathtub
+toilet stall
+shower

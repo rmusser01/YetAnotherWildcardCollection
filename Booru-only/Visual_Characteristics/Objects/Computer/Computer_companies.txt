@@ -1,0 +1,14 @@
+AMD
+Apple INC.
+ASUS
+DELL
+Hewlett-Packard
+IBM
+Intel
+Microsoft
+NEC Corporation
+NVIDIA
+SanDisk
+Sony
+VAIO
+

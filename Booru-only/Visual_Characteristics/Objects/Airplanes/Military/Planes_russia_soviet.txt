@@ -1,0 +1,37 @@
+I-152
+I-153
+I-16
+IL-2
+IL-4
+LA-5
+LA-7
+LA-11
+LaGG-3
+MiG-1
+MiG-1.44
+MiG-15
+MiG-17
+MiG-21
+MiG-23
+MiG-25
+MiG-29
+MiG-31
+PO-2
+SU-24
+SU-27
+SU-30
+SU-33
+SU-34
+SU-35
+SU-37
+SU-47 Berkut
+SU-57 / PAK FA
+TU-22
+TU-22M
+TU-28
+TU-95
+TU-160
+Yak-1
+Yak-9
+Yak-28
+Yak-141

@@ -1,0 +1,8 @@
+geyser
+lake
+ocean
+seafloor
+pond
+river
+stream
+waterfall

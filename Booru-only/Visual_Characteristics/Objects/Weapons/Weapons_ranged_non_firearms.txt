@@ -1,0 +1,11 @@
+bow
+arrow
+yumi (bow)
+chakram
+crossbow
+shuriken
+sling
+slingshot
+throwing knives
+black Keys
+

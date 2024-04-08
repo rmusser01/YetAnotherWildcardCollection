@@ -1,0 +1,56 @@
+airport
+apartment
+aquarium
+arcade
+bar
+barn
+bunker
+bus stop
+bowling alley
+cafe
+casino
+castle
+church
+construction site
+convention
+garage
+gas station
+gazebo
+greenhouse
+gym
+hospital
+house
+hotel
+hut
+industrial
+library
+lighthouse
+mall
+megastructure
+military base
+mosque
+museum
+nightclub
+observatory
+office
+onsen
+pagoda
+planetarium
+prison
+restaurant
+rooftop
+ruins
+school
+skating rink
+shack
+shrine
+shop
+skyscraper
+stadium
+stilt house
+temple
+theater
+tower
+train station
+treehouse
+windmill

@@ -1,0 +1,49 @@
+ammunition
+40mm grenade
+handgun cartridge
+rifle cartridge
+shotgun shell
+ammunition belt
+disintegrating link
+ammunition box
+ammunition pouch
+belt pouch
+chest rig
+load bearing equipment
+load bearing vest
+bandolier
+barrel
+barrel shroud
+bipod
+clip
+compensator
+flip-up sight
+folding stock
+foregrip
+angled foregrip
+vertical foregrip
+gazyr
+gun sling
+holster
+ankle holster
+gunbelt
+shoulder holster
+thigh holster
+laser sight
+magazine
+drum magazine
+dual drum magazine
+extended magazine
+muzzle device
+optical sight
+quiver
+scope
+sheath
+Avalon
+shell casing
+speedloader
+shotgun speedloader
+suppressor
+weapon bag
+weapon case
+
