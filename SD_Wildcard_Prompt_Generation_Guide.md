@@ -4,8 +4,7 @@
 ## Table of Contents
 - [Stable Diffusion 101](#sd101)
 - [Writing Prompts](#writeprompt)
-- [Prompt Pieces](#ppieces)
-
+- [Prompt samples/Bases](#promptsamples)
 ------------------------------------------------------------------------------------------------------------
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards
@@ -29,6 +28,74 @@ Catalogs:
 	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
 	* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
 https://github.com/mattjaybe/sd-wildcards
+
+    Collection (1): https://rentry.org/sdWildcardLists
+        https://desuarchive.org/g/thread/89006003#89007479
+    Collection (2): https://cdn.lewd.host/EtbKpD8C.zip
+    Collection (3): https://github.com/Lopyter/stable-soup-prompts/tree/main/wildcards
+    Collection (4): https://github.com/Lopyter/sd-artists-wildcards
+        Artist wildcard text files split by category according to Automatic1111's csv file.
+    Collection (5): https://github.com/jtkelm2/stable-diffusion-webui-1/tree/master/scripts/wildcards
+    🥒 Collection (6): https://rentry.org/NAIwildcards
+        Zipped Collection: https://files.catbox.moe/s7expb.7z
+    🥒 Collection (7): https://files.catbox.moe/ipqljx.zip 483 txt files, huge dump (for Danbooru trained models)
+        old 329 version: https://files.catbox.moe/qy6vaf.zip
+        old 314 version: https://files.catbox.moe/11s1tn.zip
+    Collection (8): https://www.mediafire.com/file/iceamfawqhn5kvu/wildcards.zip/file
+    Collection (9): https://files.catbox.moe/88s7bf.zip Clothing
+    🥒 Collection (10): https://files.catbox.moe/qyybik.zip
+    Collection (11): https://cdn.lewd.host/4Ql5bhQD.7z
+    🥒 Collection (12): https://files.catbox.moe/hz5mom.zip Danbooru tag group wildcard dump organized into folders
+    Collection (13): https://github.com/jtkelm2/stable-diffusion-webui-1/tree/main/scripts/wildcards
+
+Text Files
+
+    faces https://rentry.org/pu8z5
+    focus https://rentry.org/rc3dp
+    poses https://rentry.org/hkuuk
+    times https://rentry.org/izc4u
+    views https://rentry.org/pv72o
+    Clothing: https://pastebin.com/EyghiB2F
+    316 colors list: https://pastebin.com/s4tqKB8r
+    82 colors list: https://pastebin.com/kiSEViGA
+    Backgrounds: https://pastebin.com/FCybuqYW
+    More clothing: https://pastebin.com/DrkG1MRw
+    Styles: https://pastebin.com/71HTfsML
+    Word list (small): https://cdn.lewd.host/EtbKpD8C.zip
+    Emotions/expressions: https://pastebin.com/VVnH2b83
+    Clothing: https://pastebin.com/cXxN1fJw
+    Cum: https://rentry.org/hoom5
+    Locations: https://pastebin.com/R6ugwd2m
+    Clothing/outfits: https://pastebin.com/Xhhnyfvj
+    Locations: https://pastebin.com/uyDJMnvC
+    Clothes: https://pastebin.com/HaL3rW3j
+    Color (has nouns): https://pastebin.com/GTAaLLnm
+    Artists: https://pastebin.com/1HpNRRJU
+    Animals: https://pastebin.com/aM4PJ2YY
+    Food: https://pastebin.com/taFkYwt9
+    Characters: https://files.catbox.moe/xe9qj7.txt
+    Backgrounds: https://pastebin.com/gVue2q8g
+    Outfits: https://files.catbox.moe/y75qda.txt
+    Settings + Minerals: https://pastebin.com/9iznuYvQ
+    Hairstyles: https://pastebin.com/X39Kzxh7
+    Hairstyles 2: https://pastebin.com/bRWu1Xvv
+    Danbooru Poses: https://pastebin.com/RgerA8Ry
+    Outfits: https://pastebin.com/Z9aHVpEy
+    Poses: https://rentry.org/m9dz6
+    Clothes: https://pastebin.com/4a0BscGr
+    sex positions: https://files.catbox.moe/tzibuf.txt
+    Angles: https://pastebin.com/T8w8HEED
+    Poses: https://pastebin.com/bgkunjw2
+    Hairstyles: https://pastebin.com/GguTseaR
+    Actresses: https://raw.githubusercontent.com/Mylakovich/SD-wildcards/main/wildcards/actress.txt
+    Punks: https://pastebin.com/rw2fPSHe
+    Curated RPG Character classes (based on TTRPG character class names): https://pastebin.com/6ujb7NNe
+    Hairstyle: https://pastebin.com/Ux6SdTdp
+    wildcardNames.txt generation script: https://files.catbox.moe/c1c4rx.py
+    Another script: https://files.catbox.moe/hvly0p.rar
+    Script: https://gist.github.com/h-a-te/30f4a51afff2564b0cfbdf1e490e9187
+    UMI AI: https://www.patreon.com/posts/umi-ai-official-73544634
+        Check the presets folder for a lot of dumps
 
 
 
@@ -139,6 +206,14 @@ Use # to comment a line (not count in the options list).
 ---------------------------------------------------------------------------------------------------------
 
 
+
+
+---------------------------------------------------------------------------------------------------------
+### <a name="promptsamples"></a>Prompt samples/Bases
+* General structure: `$medium in $style of <rest of prompt>`
+- **Generic**
+	1. 
+---------------------------------------------------------------------------------------------------------
 
 
 
