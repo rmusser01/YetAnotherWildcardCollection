@@ -1,0 +1,8 @@
+alternate headwear
+alternate weapon
+bespectacled
+headwear switch
+no eyewear
+no headwear
+no legwear
+no mask

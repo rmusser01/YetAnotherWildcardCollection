@@ -1,0 +1,26 @@
+ESP STREAM-Miku-Custom
+Fender Cyclone
+Fender Jaguar
+Fender Jazzmaster
+Fender Mustang
+Fender Stratocaster
+Fender telecaster
+Gibson ES-335
+Gibson explorer
+Gibson Flying V
+Gibson Firebird
+Gibson Hummingbird
+Gibson Les Paul
+Gibson RD
+Gibson SG
+Gibson Thunderbird
+Gretsch 5230
+Gretsch 6120
+Gretsch 6128
+Italia Mondial
+Jackson King V
+Jackson rhoads
+Rickenbacker 325
+Rickenbacker 330
+Yamaha Pacifica
+Yamaha Revstar

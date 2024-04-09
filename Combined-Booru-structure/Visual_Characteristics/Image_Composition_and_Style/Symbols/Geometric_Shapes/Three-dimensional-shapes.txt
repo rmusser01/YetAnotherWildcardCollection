@@ -1,0 +1,14 @@
+Cone
+Platonic solids
+Tetrahedron
+Cube
+Octahedron
+Dodecahedron
+Icosahedron
+Prism
+Pyramid
+Orb
+Stellations
+Small stellated dodecahedron
+Stellated octahedron
+Torus

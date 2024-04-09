@@ -1,0 +1,8 @@
+balancing
+crawling
+idle animation
+jumping
+running
+walking
+walk cycle
+wallwalking

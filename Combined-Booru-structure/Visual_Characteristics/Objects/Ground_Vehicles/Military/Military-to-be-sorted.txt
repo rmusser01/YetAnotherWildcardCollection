@@ -1,0 +1,332 @@
+Military
+China
+
+    Main Battle Tank
+        Type 59
+        ZTZ-96
+        ZTZ-99
+    Light Tank
+        Type 62
+    Armored Fighting Vehicle
+        HQ-17
+        PGZ-09
+        PGZ-80
+        VN-17 IFV
+
+Finland
+
+    Assault Gun
+        BT-42
+    Support Vehicle
+        Sisu Nasu
+
+France
+
+    Light Tank
+        AMX-13
+        AMX-40 (1940)
+        AMX ELC
+        FT-17
+        H39
+        R35
+    Medium Tank
+        FCM 36
+        S35
+    Heavy Tank
+        Char B1
+        Char 2C
+    Main Battle Tank
+        AMX-30
+            AMX-30B
+    Tank Destroyer
+        AMX-50 Foch
+        Vespa 150 TAP
+
+Germany
+
+    Tank (No Classification)
+        A7V
+    Light Tank
+        Panzerkampfwagen 38(t)
+        Pz.Kpfw. I
+        Pz.Kpfw. II
+    Medium Tank
+        E-50
+        Pz.Kpfw. III
+        Pz.Kpfw. IV
+        Pz.Kpfw. V Panther
+    Heavy Tank
+        E-75
+        Pz.Kpfw. VI Tiger
+        Pz.Kpfw. VI Ausf. B Tiger II
+        Pz.Kpfw. VI Tiger (P)
+        Pz.Kpfw. VII Lowe
+    Super Heavy Tank
+        E-100
+        Landkreuzer P1000 Ratte
+        Pz.Kpfw. VIII Maus
+    Assault Gun
+        StuG III
+        StuG IV
+        Brummbar
+        Sturmtiger
+    Tank Destroyer
+        Elefant
+        Jagdpanther
+        Jagdpanther II
+        Jagdpanzer 38(t)
+        Jagdtiger
+        Marder III
+    Self-propelled Artillery
+        Karl-Gerat
+        Panzerhaubitze 2000
+    Railway gun
+        Schwerer Gustav
+    Main Battle Tank
+        Leopard 1
+        Leopard 2
+    Support Vehicle
+        Kettenkrad
+        Kubelwagen
+        Minenraumer
+        Schwimmwagen
+        Sdkfz 9
+        Sdkfz 222
+        Sdkfz 250
+        Sdkfz 251
+        TPz Fuchs
+
+Iran
+
+    Main Battle Tank
+        Tiam
+
+Israel
+
+    Main Battle Tank
+        Merkava
+    Anti-Aircraft Vehicle
+        Machbet
+
+Italy
+
+    Tankette
+        Carro Veloce CV-33
+        L3
+    Heavy Tank
+        Carro Armato p40
+    Main Battle Tank
+        C1 Ariete
+    Assault Gun
+        Semovente 75/18
+    Tank Destroyer
+        B1 Centauro
+    Anti-Aircraft Vehicle
+        OTOMATIC
+
+Japan
+
+    Tank (No Classification)
+        Toku-3-gou
+    Tankette
+        Type 97 Te-Ke
+    Light Tank
+        Type 2 Ke-To
+        Type 95 Ha-Go
+    Medium Tank
+        Type 3 Chi-Nu
+        Type 4 Chi-To
+        Type 5 Chi-Ri
+        Type 89 I-Gou
+        Type 97 Chi-Ha
+    Heavy Tank
+        Type 91 Heavy
+    Superheavy Tank
+        O-I
+        O-Ro
+    Tank Destroyer
+        Type 5 Ho-Ri
+    Main Battle Tank
+        Type 10
+        Type 61
+        Type 74
+        Type 90
+    Armored Fighting Vehicle
+        Type 89 IFV
+        Type 16
+        Type 60
+    Support Vehicle
+        Type 90 TKR
+        Type 95
+    Anti-Aircraft Vehicle
+        Type 87
+
+North Korea
+
+    Main Battle Tank
+        Pokpung-ho
+
+South Korea
+
+    Main Battle Tank
+        K1
+        K2 Black Panther
+    Self-propelled Artillery
+        K9 Thunder
+    Armored Fighting Vehicle
+        K21
+        K30 Biho
+
+Poland
+
+    Tankette
+        TKS
+    Light Tank
+        PL-01
+
+Russia/Soviet Union
+
+    Tank (No Classification)
+        Tsar Tank
+    Light Tank
+        BT-7
+        T-26
+        T-50
+    Medium Tank
+        T-28
+        T-34
+        T-44
+    Heavy Tank
+        IS-1
+        IS-2
+        IS-3
+        IS-6
+        KV-1
+        Kv-2
+        Object 279
+        Object 705A
+        SMK
+        T-10
+        T-35
+    Tank Destroyer
+        ASU-57
+        ASU-85
+        ISU-152
+        Object 704
+        SU-76
+        SU-85
+        SU-100
+    Self-Propelled Artillery
+        203mm B-4
+        BM-13 Katyusha
+        ISU-122
+        SU-122
+        SU-152
+    Main Battle Tank
+        "Black Eagle"
+        T-14 Armata
+        T-54
+        T-55
+        T-62
+        T-64
+        T-72
+        T-80
+        T-90
+    Armored Fighting Vehicle
+        BMD-3
+        BMP-1
+        BMP-2
+        BMP-3
+        BRDM
+        BTR-80
+        BTR-90
+        ZSU-23-4
+    Support Vehicle
+        BA-64
+
+Sweden
+
+    Main Battle Tank
+        Stridsvagn 103
+
+Taiwan
+
+    Main Battle Tank
+        CM-11 Brave Tiger
+        CM-32
+
+United Kingdom
+
+    Tank (No Classification)
+        Mark I tank
+        Mark IV tank
+    Medium Tank
+        A34 Comet
+        Mk. VIII Cromwell
+        Mk. VI Crusader
+        Mk. II Matilda
+        Sherman Firefly
+        Vickers Medium Mk.3
+    Heavy Tank
+        A43 Black Prince
+        Mk. III Valentine
+        Mk. IV Churchill
+    Super Heavy Tank
+        A39 Tortoise
+        TOG II
+    Tank Destroyer
+        FV215
+    Main Battle Tank
+        Centurion
+    Support Vehicle
+        Daimler AEC
+        Ferret scout car
+        Land Rover Defender
+
+United States
+
+    Light Tank
+        M3 Stuart
+        M24 Chaffee
+        M41 Walker Bulldog
+            T49
+        M551 Sheridan
+        T1 Cunningham
+    Medium Tank
+        M3 Lee
+        M4 Sherman
+            M4A3E2 "Jumbo"
+            M4A3E8 "Easy 8"
+        M26 Pershing
+            T26E4 Super Pershing 
+    Heavy Tank
+        M6
+        T14
+        T29
+        T34
+        T110
+    Super Heavy Tank
+        T28/T95
+    Tank Destroyer
+        M10 Wolverine
+            M36 Jackson
+        M18 Hellcat
+        M50 Ontos
+    Self-Propelled Artillery
+        M7 Priest
+        M270 MLRS
+    Main Battle Tank
+        M1 Abrams
+        M46 Patton
+            M47 Patton
+            M48 Patton
+            M60
+            M60A2
+    Armored Fighting Vehicle
+        LAV-25
+        M113
+        M2 Bradley
+        Stryker
+    Support Vehicle
+        Humvee
+        Jeep

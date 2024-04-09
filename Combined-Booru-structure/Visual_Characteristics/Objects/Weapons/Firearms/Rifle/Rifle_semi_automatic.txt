@@ -1,0 +1,14 @@
+AR-15
+ArmaLite AR-7
+Gewehr 41
+Gewehr 43
+H&K SL8
+Kel-Tec RFB
+M1 Carbine
+M1 Garand
+Ruger Mini-14
+Saiga semi-automatic rifle
+SKS
+SVT-38
+SVT-40
+

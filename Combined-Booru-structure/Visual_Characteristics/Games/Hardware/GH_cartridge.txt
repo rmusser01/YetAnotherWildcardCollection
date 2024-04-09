@@ -1,0 +1,3 @@
+Famicom cartridge
+Game Boy cartridge
+Super Famicom cartridge

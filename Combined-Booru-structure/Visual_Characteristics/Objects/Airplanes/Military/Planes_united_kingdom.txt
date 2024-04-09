@@ -1,0 +1,32 @@
+Airco DH.4
+Fairey Barracuda
+Bristol Beaufighter
+Blackburn Buccaneer
+Sopwith Camel
+Bolton-Paul Defiant
+Fairey Firefly
+Fairey Gannet
+Hawker Harrier
+Hawker Hurricane
+Avro Lancaster
+Gloster Meteor
+De Havilland Mosquito
+Blackburn Roc
+Hawker Sea Fury
+Hawker Tempest
+Hawker Typhoon
+Supermarine Scimitar
+Supermarine Spitfire
+Supermarine Seafire
+Supermarine Spiteful
+De Havilland Sea Vixen
+Gloster Sparrowhawk
+Fairey Swordfish
+De Havilland Tiger Moth
+Hawker Tornado
+BAC TSR-2
+De Havilland Vampire
+Avro Vulcan
+Westland Lysander
+Westland Wyvern
+

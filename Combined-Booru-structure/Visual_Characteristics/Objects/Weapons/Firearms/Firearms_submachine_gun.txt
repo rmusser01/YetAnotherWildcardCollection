@@ -1,0 +1,50 @@
+Arsenal Shipka
+Beretta M12
+B&T APC
+B&T MP9
+Calico SMG
+CBJ-MS
+Colt 9mm SMG
+Daewoo K7
+Jatimatic
+H&K MP5
+H&K MP5K
+H&K MP5SD
+H&K MP7
+H&K UMP
+IMI Uzi
+Micro Uzi
+Mini Uzi
+IWI X95 9mm
+KRISS Vector
+Lanchester SMG
+M3 Grease Gun
+M50 Reising
+MAC-10 & MAC-11
+Magpul FMG-9
+Magpul PDR
+MAT-49
+MP3008
+MP40
+MP41
+OTs-02 Kiparis
+P90
+PM-63 RAK
+PM-84 Glauberyt
+PP-19 Bizon
+PP-90
+PP-90M1
+PP-91 Kedr
+PP-2000
+PPD-40
+PPS-43
+PPSh-41
+Skorpion Vz. 61
+Sterling SMG
+Steyr AUG Para
+Sten gun
+Suomi kp/-31
+T77 submachine gun
+Thompson submachine gun
+Type 100
+

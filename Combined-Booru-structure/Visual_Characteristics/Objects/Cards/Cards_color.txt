@@ -1,0 +1,6 @@
+blue card
+grey card
+purple card
+red card
+white blank card
+yellow card

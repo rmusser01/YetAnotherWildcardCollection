@@ -1,0 +1,35 @@
+All-terrain vehicle
+Ambulance
+Armored personnel carrier
+Armored recovery vehicle
+Armored vehicle
+Bicycle
+Bus
+Car
+Police car
+Taxi
+Drill tank
+Half-track
+Motorcycle
+Motor vehicle
+Self-propelled artillery
+Steamroller
+Tank
+Tank destroyer
+Train
+Armored train
+Railway gun
+Truck
+Concrete mixer truck
+Dump truck
+Haul truck
+Flatbed truck
+Fire truck
+Garbage truck
+Monster truck
+Pickup truck
+Semi truck
+Tank truck
+Technical
+Turretless tank
+Van

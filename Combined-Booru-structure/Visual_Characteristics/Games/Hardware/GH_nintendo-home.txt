@@ -1,0 +1,9 @@
+NES/Famicom
+Famicom Disk System
+Super Nintendo/Super Famicom
+Virtual Boy
+Nintendo 64
+Nintendo 64DD
+Nintendo Gamecube
+Nintendo Wii
+Wii U

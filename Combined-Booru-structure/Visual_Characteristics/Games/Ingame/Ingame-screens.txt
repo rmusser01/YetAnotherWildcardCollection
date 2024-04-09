@@ -1,0 +1,5 @@
+character select
+game over
+boss fight
+title screen
+VS

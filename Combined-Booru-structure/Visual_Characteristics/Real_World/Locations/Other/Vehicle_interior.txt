@@ -1,0 +1,7 @@
+airplane interior
+bus interior
+car interior
+cockpit
+spacecraft interior
+tank interior
+train interior

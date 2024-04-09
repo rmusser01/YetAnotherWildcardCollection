@@ -1,0 +1,15 @@
+bar censor
+blank censor
+blur censor
+censored by text
+emoji censor
+flower censor (May also be diegetic)
+glitch censor
+heart censor
+light censor (May also be diegetic)
+scribble censor
+shadow censor (Possibly also diegetic)
+silhouette censor
+sparkle censor
+speech bubble censor
+star censor

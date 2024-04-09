@@ -1,0 +1,17 @@
+GNU/Linux
+Arch Linux
+Debian
+Fedora
+Gentoo
+Knoppix
+Mandrake
+Mandriva
+Slackware
+SUSE
+Ubuntu
+BSD
+OpenBSD
+Macintosh
+Microsoft Windows
+Longhorn
+

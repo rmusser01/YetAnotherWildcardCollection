@@ -1,0 +1,9 @@
+bakery
+bookstore
+convenience store
+flower shop
+pharmacy
+salon
+sex shop
+supermarket
+weapon shop

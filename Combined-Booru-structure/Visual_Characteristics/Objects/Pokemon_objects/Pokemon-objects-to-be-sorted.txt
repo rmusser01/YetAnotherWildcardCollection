@@ -1,0 +1,122 @@
+Information
+
+    Fame Checker
+    Pokédex
+    Pokégear
+    PokéNAV
+    Pokétch
+
+Capture
+
+    Poke Ball
+        Poké Ball theme
+        Cherish Ball (Precious Ball in Japan)
+        Dusk Ball (Dark Ball in Japan)
+        Fast Ball (Speed Ball in Japan)
+        Friend Ball
+        Great Ball (Super Ball in Japan)
+        GS Ball
+        Heavy Ball
+        Level Ball
+        Love Ball (Love Love Ball in Japan)
+        Lure Ball
+        Luxury Ball (Gorgeous Ball in Japan)
+        Master Ball
+        Moon Ball
+        Net Ball
+        Premier Ball
+        Quick Ball
+        Repeat Ball
+        Timer Ball
+        Ultra Ball (Hyper Ball in Japan)
+    Apricorn
+    Capture Styler
+
+Healing
+
+    Revive
+        Max Revive
+    Potion
+        Hyper Potion
+    Secret Potion
+    Antidote
+    Lava Cookie
+    Leftovers (try searching for apple_core pokemon)
+    Moomoo Milk
+
+Berries
+
+    Aspear berry
+    Hondew berry
+    Leppa berry
+    Oran berry
+    Pecha berry
+    Sitrus berry
+    See Berry (Pokemon) for a full list
+
+Evolution
+
+    Evolutionary Stone
+        Dawn Stone
+        Dusk Stone
+        Everstone
+        Fire Stone
+        Moon Stone
+        Shiny Stone
+        Sun Stone
+        Thunder Stone
+    Ice Rock
+    Moss Rock
+    Rare Candy
+
+Maps
+
+    Kanto map
+    Johto map
+    Hoenn map
+    Unova map
+    Kalos map
+    Alola map
+    Galar map
+
+Badges
+
+    Gym Leader Badge
+
+Trading Card Game
+
+    Pokémon Card
+
+Power ups
+
+    Dynamax Band
+    Mega Stone
+    Z-Ring and Z-Crystal
+
+Others
+
+    Amulet Coin
+    Assault Vest
+    Berry Pots
+    Blue Orb and Red Orb
+    Choice Band
+    Escape Rope (try searching for rope pokemon)
+    Focus Band
+    Heart Scale
+    Item Finder
+    King's Rock
+    League Card
+    Lift Key
+    Pokéblock case
+    Poké Doll (try searching for character_doll clefairy or doll clefairy)
+    Poké Flute
+    Poké Puff
+    Rainbow Pass
+    Repel
+    Soothe Bell
+    Squirt Bottle (Pokemon)
+    Stick (try searching for spring_onion pokemon and farfetch'd)
+    TMs and HMs (try searching for cd pokemon)
+    Twisted Spoon (try searching for bent_spoon pokemon)
+    Vs Seeker (Battle Searcher in Japan)
+    X Attack

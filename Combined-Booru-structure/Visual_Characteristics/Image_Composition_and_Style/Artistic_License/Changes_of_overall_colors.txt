@@ -1,0 +1,4 @@
+alternate color
+alternate element
+palette swap
+player 2

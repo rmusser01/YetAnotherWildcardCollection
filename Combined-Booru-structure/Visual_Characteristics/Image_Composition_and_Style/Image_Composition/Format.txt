@@ -1,0 +1,89 @@
+3d
+animated
+animated png
+flash
+video
+music video
+animated gif
+easytoon
+non-repeating animation
+looping animation
+roulette animation
+live2d
+archived file
+artbook
+calendar (medium)
+card (medium)
+comic
+1koma
+2koma
+3koma
+4koma
+multiple 4koma
+5koma
+borderless panels
+manga (Japanese term for comic books)
+left-to-right manga (LTR Japanese/Chinese works)
+right-to-left comic (RTL Western/Korean works)
+silent comic
+corrupted file
+corrupted twitter file
+cover
+album cover
+character single
+cover page
+doujin cover
+dvd cover
+fake cover
+video game cover
+magazine cover
+manga cover
+fake screenshot
+fake phone screenshot
+game cg
+gyotaku (medium)
+highres
+absurdres
+incredibly absurdres
+lowres
+icon
+logo
+kirigami
+lineart
+no lineart
+outline
+tall image
+wide image
+mosaic art
+photomosaic
+oekaki
+official art
+phonecard
+photo
+papercraft
+paper child
+paper cutout
+pixel art
+postcard
+poster
+revision
+has bad revision
+has artifacted revision
+has censored revision
+has cropped revision
+has downscaled revision
+has lossy revision
+has watermarked revision
+scan
+anime screenshot
+shitajiki
+tegaki
+transparent background
+triptych (art)
+twitter thumbnail collage
+vector trace
+wallpaper
+tileable
+wallpaper forced
+widescreen
+official wallpaper

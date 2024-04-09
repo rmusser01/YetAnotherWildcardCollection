@@ -1,0 +1,6 @@
+audio visualizer
+conductor baton
+horn
+instrument
+music
+singing

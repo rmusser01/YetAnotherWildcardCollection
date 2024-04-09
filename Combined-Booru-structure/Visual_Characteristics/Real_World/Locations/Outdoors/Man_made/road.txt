@@ -1,0 +1,8 @@
+alley
+crosswalk
+dirt road
+highway
+path
+sidewalk
+stone walkway
+street

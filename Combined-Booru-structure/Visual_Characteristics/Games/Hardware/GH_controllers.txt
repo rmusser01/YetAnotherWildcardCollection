@@ -1,0 +1,19 @@
+Arcade stick
+Dance pad
+Dreamcast controller
+DualShock
+Famicom gamepad
+Gamecube controller
+Gamepad
+Joystick
+Kinect
+Nintendo 64 controller
+Nintendo Switch Pro controller
+Playstation controller
+Playstation Move
+Super Famicom gamepad
+Wii Balance Board
+Wii Racing Wheel
+Wii Remote
+Wii U gamepad
+Xbox controller

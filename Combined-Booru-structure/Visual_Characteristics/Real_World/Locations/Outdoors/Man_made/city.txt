@@ -1,0 +1,4 @@
+floating city
+rural
+town
+village

@@ -1,0 +1,6 @@
+autocannon
+Gatling gun
+GAU-8 Avenger
+M134 minigun
+M167 VADS
+

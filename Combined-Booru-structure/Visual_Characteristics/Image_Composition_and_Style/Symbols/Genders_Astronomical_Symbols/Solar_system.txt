@@ -1,0 +1,9 @@
+Sun symbol
+Mercury symbol // ☿
+Venus symbol (Female symbol) // ♀
+Mars symbol (Male symbol) // ♂
+Jupiter symbol // ♃
+Saturn symbol // ♄
+Uranus symbol // ♅
+Neptune symbol // ♆
+Pluto symbol // ♇

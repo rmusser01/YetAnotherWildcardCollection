@@ -1,0 +1,19 @@
+beach
+canyon
+cave
+cliff
+desert
+forest
+glacier
+hill
+island
+jungle
+meadow
+mountain
+nature
+park
+parking lot
+plain
+wetland
+water
+wasteland

@@ -1,0 +1,4 @@
+    glasses
+    goggles
+    monocle
+    sunglasses

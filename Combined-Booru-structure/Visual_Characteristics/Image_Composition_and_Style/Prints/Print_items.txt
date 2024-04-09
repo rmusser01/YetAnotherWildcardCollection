@@ -1,0 +1,17 @@
+Print eyepatch
+Print footwear
+Print gloves
+Print hakama
+Print headwear
+Print kimono
+Print leggings
+Print neckwear
+Print panties
+Print pantyhose
+Print shirt
+Print shorts
+Print socks
+Print swimsuit
+Print bikini
+Print thighhighs
+Print umbrella

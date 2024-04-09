@@ -1,0 +1,23 @@
+bathroom
+bedroom
+cafeteria
+changing room
+classroom
+conservatory
+courtroom
+dining room
+dressing room
+dungeon
+fitting room
+gym
+infirmary
+kitchen
+laboratory
+library
+living room
+office
+pool
+stage
+staff room
+storage room
+workshop

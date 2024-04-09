@@ -1,0 +1,7 @@
+amphibian eyes
+button eyes
+cephalopod eyes
+compound eyes
+horizontal pupils
+lens_eye
+pixel_eyes

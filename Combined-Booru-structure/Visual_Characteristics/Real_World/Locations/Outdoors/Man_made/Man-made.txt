@@ -1,0 +1,26 @@
+airfield
+amusement park
+aqueduct
+bridge
+canal
+city
+dam
+dock
+garden
+graveyard
+jetty
+field
+fountain
+harbor
+market
+pier
+phone booth
+pool
+railroad tracks
+road
+soccer field
+running track
+trench
+tunnel
+well
+zoo

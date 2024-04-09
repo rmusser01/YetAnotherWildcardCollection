@@ -1,0 +1,89 @@
+A-1 Skyraider
+A-4 Skyhawk
+A-5 Vigilante
+A-6 Intruder
+A-10 Thunderbolt II
+AC-130 Spectre
+A2D Skyshark
+B-1 Lancer
+B-2 Spirit
+B-17 Flying Fortress
+B-24 Liberator
+B-25 Mitchell
+B-29 Superfortress
+B-36 Peacemaker
+B-52 Stratofortress
+C-5M Super Galaxy
+C-46 Commando
+C-47
+C-130 Hercules
+C-141 Starlifter
+E-2 Hawkeye
+E-3 Sentry
+EA-6 Prowler
+F-4 Phantom II
+F-5 Freedom Fighter
+F-8 Crusader
+F-11 Tiger
+F-14 Tomcat
+F-15 Eagle
+F-15S/MTD
+F-16 Fighting Falcon
+F-18 Hornet
+F/A-18E Super Hornet
+F-20 Tigershark
+F-22 Raptor
+F-35 Lightning II
+F-86 Sabre
+F-86D Sabre
+F-94 Starfire
+F-104 Starfighter
+F-105 Thunderchief
+F-106 Delta Dart
+F-111 Aardvark
+F-117 Nighthawk
+FH Phantom
+F2A Buffalo
+F2Y Sea Dart
+F4F Wildcat
+F4U Corsair
+F6F Hellcat
+F7F Tigercat
+F8F Bearcat
+F9C Sparrowhawk
+FM-2 Wildcat
+JRM Mars
+J2F Duck
+KC-10 Extender
+KC-135 Stratotanker
+OV-10 Bronco
+P-38 Lightning
+P-39 Airacobra
+P-40 Warhawk
+P-47 Thunderbolt
+P-51 Mustang
+P-61 Black Widow
+P-75 Eagle
+P-80 Shooting Star
+P-82 Twin Mustang
+P6M SeaMaster
+PBY Catalina
+SR-71 Blackbird
+SBD Dauntless
+SB2C Helldiver
+T-6 Texan
+T-38 Talon
+TBD Devastator
+TBF Avenger
+U-2 Dragon Lady
+V-22 Osprey
+X-1
+XF5U
+XFY-1
+X-15
+X-24
+X-29
+X-36
+XB-35
+XF-85 Goblin
+XP-79
