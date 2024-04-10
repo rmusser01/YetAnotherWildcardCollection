@@ -54,7 +54,6 @@ Text Files
     Word list (small): https://cdn.lewd.host/EtbKpD8C.zip
     Emotions/expressions: https://pastebin.com/VVnH2b83
     Clothing: https://pastebin.com/cXxN1fJw
-    Cum: https://rentry.org/hoom5
     Locations: https://pastebin.com/R6ugwd2m
     Clothing/outfits: https://pastebin.com/Xhhnyfvj
     Locations: https://pastebin.com/uyDJMnvC
