@@ -1,384 +1,735 @@
+
 abachi
+Abachi
 abaci
+Abaci
 acacia
+Acacia
 african blackwood
+African blackwood
 african ebony
+African ebony
 african mahogany
+African mahogany
+African Mahogany
 african padauk
+African padauk
 afzelia
+Afzelia
 agba
+Agba
 alder
+Alder
 alerce
+Alerce
 alpine ash
+Alpine ash
 american basswood
+American basswood
 american beech
+American beech
 american birch
+American Birch
 american chestnut
+American Chestnut
 american elm
+American elm
 american hophornbeam
+American hophornbeam
 american hornbeam
+American hornbeam
 american mahogany
+American Mahogany
 american muskwood
+American muskwood
 american red alder
+American Red Alder
 american sycamore
+American sycamore
+American Whitewood
 american whitewood
+Andaman marblewood
 andaman marblewood
+Apple
 apple
+Araucaria
 araucaria
+Arizona cypress
 arizona cypress
+Ash
 ash
 ash wood
+Aspen
 aspen
+Astronium
 astronium
+Atlantic white cedar
 atlantic white cedar
+Australian blackwood
 australian blackwood
+Australian oak
 australian oak
+Australian red cedar
 australian red cedar
+Ayan
 ayan
+Balau
 balau
+Bald cypress
 bald cypress
+Balsa
 balsa
 balsa wood
+Balsam fir
 balsam fir
+Balsam poplar
 balsam poplar
+Bamboo
 bamboo
 bamboo wood
+Banglay
 banglay
+Basswood
 basswood
+Bead-tree
 bead-tree
+Beech
 beech
+Bigleaf mahogany
 bigleaf mahogany
+Bigtooth aspen
 bigtooth aspen
+Birch
 birch
 birch wood
+Black alder
 black alder
+Black ash
 black ash
+Black birch
 black birch
+Black cherry
 black cherry
+Black ironwood
 black ironwood
+Black locust
 black locust
+Black maple
 black maple
+Black poplar
 black poplar
+Black spruce
 black spruce
+Black tupelo
 black tupelo
+Black willow
 black willow
+Blackbean
 blackbean
+Blackbutt
 blackbutt
+Bloodwood
 bloodwood
+Blue ash
 blue ash
+Blue gum
 blue gum
+Borneo ironwood
 borneo ironwood
-bossé
+Boss銢oss銂oxelder
 boxelder
+Boxwood
 boxwood
+Brazilian ironwood
 brazilian ironwood
+Brazilian Pine
 brazilian pine
+Brazilian walnut
 brazilian walnut
+Brazilwood
 brazilwood
+Brown mallet
 brown mallet
+Buckeye
 buckeye
+Bur oak
 bur oak
+Butternut
 butternut
+California bay laurel
 california bay laurel
+Camphor tree
 camphor tree
+Canyon live oak
 canyon live oak
+Cape chestnut
 cape chestnut
+Carapa
 carapa
+Catalina ironwood
 catalina ironwood
+Catalpa
 catalpa
+Cedar
 cedar
 cedar wood
+Celery-top pine
 celery-top pine
+Ceylon ebony
 ceylon ebony
+Ceylon ironwood
 ceylon ironwood
+Ceylon satinwood
 ceylon satinwood
+Chamaecyparis
 chamaecyparis
+Cherry
 cherry
 cherry wood
+Chestnut
 chestnut
+Chestnut oak
 chestnut oak
+Chinese mahogany
 chinese mahogany
+Chinkapin oak
 chinkapin oak
+Coachwood
 coachwood
+Coast Douglas-fir
 coast douglas-fir
+Coast redwood
 coast redwood
+Cocobolo
 cocobolo
+Common ash
 common ash
+Common walnut
 common walnut
+Corkwood
 corkwood
+Cottonwood
 cottonwood
+Cricket-bat willow
 cricket-bat willow
+Cucumbertree
 cucumbertree
+Cumaru
 cumaru
+Cupressus
 cupressus
+Cypress
 cypress
+Dark bosse
 dark bosse
+Dark Red Meranti
 dark red meranti
+Desert ironwood
 desert ironwood
+Diesel tree
 diesel tree
+Dogwood
 dogwood
+Douglas fir
 douglas fir
+Douglas-fir
 douglas-fir
+Downy birch
 downy birch
+Eastern black oak
 eastern black oak
+Eastern black walnut
 eastern black walnut
+Eastern cottonwood
 eastern cottonwood
+Eastern hemlock
 eastern hemlock
+Eastern red cedar
+Eastern Red Cedar
 eastern red cedar
+Eastern white pine
 eastern white pine
+Eb讥 marbre
+eb讥 marbre
+Ebony
 ebony
-ebène marbre
+Elm
 elm
 elm wood
 engineered wood
+English elm
 english elm
+English oak
 english oak
+Eucalyptus
 eucalyptus
+European aspen
 european aspen
+European Birch
 european birch
+European black pine
 european black pine
+European crabapple
 european crabapple
+European larch
 european larch
+European Oak
 european oak
+European pear
 european pear
+European yew
 european yew
 exotic wood
+Fir
 fir
 fir wood
+Flooded gum
 flooded gum
+Flowering dogwood
 flowering dogwood
+Genuine mahogany
 genuine mahogany
+Giant ironwood
 giant ironwood
-gonçalo alves
+Gon硬o alves
+gon硬o alves
+Gray birch
 gray birch
+Green ash
 green ash
+Greenheart
 greenheart
+Grenadilla
 grenadilla
+Grey ironbark
 grey ironbark
+Guaiacwood
 guaiacwood
+Guanandi
 guanandi
+Gum
 gum
+Gumbo limbo
 gumbo limbo
+Hackberry
 hackberry
 hardwood
+Hemlock
 hemlock
+Hickory
 hickory
+Hinoki cypress
 hinoki cypress
+Holywood
 holywood
+Honey locust
 honey locust
+Hoop pine
 hoop pine
+Hornbeam
 hornbeam
+Horse-chestnut
 horse-chestnut
+Huon pine
 huon pine
+Hybrid black poplar
 hybrid black poplar
+Indian mahogany
 indian mahogany
+Indian sandalwood
 indian sandalwood
+Indonesian mahogany
 indonesian mahogany
+Ipe
 ipe
-ipe wood
-ipê
+Ipꊩpꊩpe wood
+Iroko
 iroko
+Ironwood
 ironwood
-jacarandá de brasil
-jacarandá-boca-de-sapo
+Jacarandᠤe Brasil
+jacarandᠤe brasil
+Jacarand᭢oca-de-sapo
+jacarand᭢oca-de-sapo
+Jack pine
 jack pine
+Japanese larch
 japanese larch
+Japanese nutmeg-yew
 japanese nutmeg-yew
+Jarrah
 jarrah
-jatobá
+Jatobኪatobኊuniper
 juniper
+Karri
 karri
+Kauri
 kauri
+Kingwood
 kingwood
+Kosipo
 kosipo
+Kwila
 kwila
+Lacewood
 lacewood
+Larch
 larch
+Laurel oak
 laurel oak
+Lawson's cypress
 lawson's cypress
+Lebombo ironwood
 lebombo ironwood
+Light bosse
 light bosse
+Light Red Meranti
 light red meranti
+Lignum vitae
 lignum vitae
+Limba
 limba
+Lime wood
 lime wood
+Linden
 linden
+Loblolly pine
 loblolly pine
+Lodgepole pine
 lodgepole pine
+London plane
 london plane
+Longleaf pine
 longleaf pine
+Lyptus
 lyptus
+Mahogany
 mahogany
 mahogany wood
+Maple
 maple
 maple wood
+Marblewood
 marblewood
+Marri
 marri
+Mediterranean cypress
 mediterranean cypress
 medium-density fiberboard
+Meranti
 meranti
+Merbau
 merbau
+Monkey puzzle tree
 monkey puzzle tree
+Monterey pine
 monterey pine
+Mopane
 mopane
+Mountain ash
 mountain ash
+Mountain hemlock
 mountain hemlock
+Mountain mahogany
 mountain mahogany
+Mugga
 mugga
+Noble fir
 noble fir
+Nootka cypress
 nootka cypress
+Northern red oak
 northern red oak
+Northern silky oak
 northern silky oak
+Northern white cedar
 northern white cedar
+Norway spruce
 norway spruce
+Nuttall's oak
 nuttall's oak
+Oak
 oak
 oak wood
+Ohio buckeye
 ohio buckeye
-okoumé
+Okoum銯koum銏live
 olive
+Olive wood
 olive wood
+Oregon ash
 oregon ash
+Oregon Pine
 oregon pine
+Overcup oak
 overcup oak
+Pacific Coast mahogany
 pacific coast mahogany
+Pacific dogwood
 pacific dogwood
+Pacific silver fir
 pacific silver fir
+Palmwood
 palmwood
+Panga-panga
 panga-panga
+Paper birch
 paper birch
-paraná pine
+Paranᠰine
+paranᠰine
 particle board
+Pear
 pear
+Pear tree
 pear tree
+Pecan
 pecan
+Persian ironwood
 persian ironwood
+Philippine mahogany
 philippine mahogany
+Pignut hickory
 pignut hickory
+Pine
 pine
 pine wood
+Pink ivory
 pink ivory
+Pitch pine
 pitch pine
+Plane tree
 plane tree
 plywood
+Ponderosa pine
 ponderosa pine
+Poplar
 poplar
+Post oak
 post oak
+Prunus
 prunus
+Pumpkin ash
 pumpkin ash
+Purpleheart
 purpleheart
+Quaking aspen
 quaking aspen
+Queensland kauri
 queensland kauri
+Queensland maple
 queensland maple
+Queensland walnut
 queensland walnut
+Radiata Pine
 radiata pine
+Ramin
 ramin
 reclaimed wood
+Red alder
 red alder
+Red Cedar
 red cedar
+Red cherry
 red cherry
+Red mahogany
 red mahogany
+Red maple
 red maple
+Red oak
 red oak
+Red pine
 red pine
+Red spruce
 red spruce
+Redheart
 redheart
+Redwood
 redwood
+Rimu
 rimu
+River red gum
 river red gum
+Robinia pseudoacacia
 robinia pseudoacacia
+Rock elm
 rock elm
+Rocky Mountain Douglas-fir
 rocky mountain douglas-fir
+Rosewood
 rosewood
+Rubberwood
 rubberwood
+Sal
 sal
+Sandalwood
 sandalwood
+Sapele
 sapele
+Sassafras
 sassafras
-satiné
+Satin銳atin銓cots pine
 scots pine
+Sequoia
 sequoia
+Shagbark hickory
 shagbark hickory
+Shellbark hickory
 shellbark hickory
+Sheoak
 sheoak
+Shortleaf pine
 shortleaf pine
+Silky oak
 silky oak
+Silver birch
 silver birch
+Silver fir
 silver fir
+Silver maple
 silver maple
+Silver wattle
 silver wattle
+Sipo
 sipo
+Sitka spruce
 sitka spruce
+Slippery elm
 slippery elm
 softwood
+Sourwood
 sourwood
+Southern live oak
 southern live oak
+Southern red oak
 southern red oak
+Southern sassafras
 southern sassafras
+Southern yellow pine
+Southern Yellow Pine
 southern yellow pine
+Spanish Cedar
 spanish cedar
+Spanish elm
 spanish elm
+Spanish-cedar
 spanish-cedar
+Spruce
 spruce
 spruce wood
+Sugar maple
 sugar maple
+Sugar pine
 sugar pine
+Sugi
 sugi
+Swamp chestnut oak
 swamp chestnut oak
+Swamp cottonwood
 swamp cottonwood
+Swamp mahogany
 swamp mahogany
+Swamp white oak
 swamp white oak
+Sweet birch
 sweet birch
+Sweetgum
 sweetgum
+Sycamore maple
 sycamore maple
+Sydney blue gum
 sydney blue gum
+Takian
 takian
+Tallowwood
 tallowwood
+Tamarack
 tamarack
+Tamboti
 tamboti
+Taxodium
 taxodium
+Teak
 teak
 teak wood
+Thailand rosewood
 thailand rosewood
+Tiama
 tiama
+Tulip tree
 tulip tree
+Tulipwood
 tulipwood
+Tupelo
 tupelo
+Turpentine
 turpentine
+Walnut
 walnut
 walnut wood
+Wandoo
 wandoo
+Water oak
 water oak
+Weeping willow
 weeping willow
+Wenge
 wenge
 wenge wood
+West Indies mahogany
 west indies mahogany
+Western hemlock
 western hemlock
+Western larch
 western larch
+Western red cedar
+Western Red Cedar
 western red cedar
+Western white pine
 western white pine
+White ash
 white ash
+White basswood
 white basswood
+White Elm
 white elm
+White mahogany
 white mahogany
+White oak
 white oak
+White pine
 white pine
+White spruce
 white spruce
+White willow
 white willow
 wicker
+Wild Apple
 wild apple
+Wild cherry
 wild cherry
+Wild Oak
 wild oak
+Wild Pear
 wild pear
+Willow
 willow
+Willow oak
 willow oak
 wood
+Wych elm
 wych elm
+Yellow birch
 yellow birch
+Yellow buckeye
 yellow buckeye
+Yellow Cedar
 yellow cedar
+Yellow lapacho
 yellow lapacho
+Yew
 yew
+York gum
 york gum
 zebrawood
+Zingana
 zingana

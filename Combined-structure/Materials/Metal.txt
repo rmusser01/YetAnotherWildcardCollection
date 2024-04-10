@@ -1,261 +1,457 @@
 6al–4v
 aa-8000
+AA-8000
 actinium
 al ga
+Al Ga
 al-6xn
-alloy 20
-alnico
-alumel
-aluminium
-aluminium bronze
-aluminium–scandium
-aluminum
+AL-6XN
 al–li
+Al–Li
+alloy 20
+Alloy 20
+alnico
+Alnico
+alumel
+Alumel
+aluminium
+Aluminium
+aluminium bronze
+Aluminium bronze
+aluminium–scandium
+Aluminium–Scandium
+aluminum
+Aluminum
 amalgam
+Amalgam
 americium
 argentium sterling silver
+Argentium sterling silver
 arsenic
+Arsenic
 arsenical bronze
+Arsenical bronze
 arsenical copper
+Arsenical copper
 ashtadhatu
+Ashtadhatu
 babbitt
+Babbitt
 barium
 bell metal
+Bell metal
 berkelium
 beryllium
 beryllium copper
+Beryllium copper
 beta c
+Beta C
 billon
+Billon
 birmabright
+Birmabright
 bismanol
+Bismanol
 bismuth
 bohrium
 brass
+Brass
 brightray
+Brightray
+Britannia silver
 britannia silver
+Britannium
 britannium
+Bronze
 bronze
+Bulat steel
 bulat steel
+Cadmium
 cadmium
+Calamine brass
 calamine brass
 calcium
 californium
+Cast iron
 cast iron
+Celestrium
 celestrium
 cerium
+Cerrosafe
 cerrosafe
 cesium
+Chinese silver
 chinese silver
+Chromel
 chromel
+Chromium
 chromium
+Chromium hydride
 chromium hydride
+Chromoly
 chromoly
+Cobalt
 cobalt
+Coin silver
 coin silver
+Colored gold
 colored gold
+Constantan
 constantan
+Copper
 copper
+Copper hydride
 copper hydride
+Copper–tungsten
 copper–tungsten
+Corinthian bronze
 corinthian bronze
+Crown gold
 crown gold
+Crucible steel
 crucible steel
+CuAg
 cuag
+Cunife
 cunife
+Cupronickel
 cupronickel
 curium
+Cymbal alloys
 cymbal alloys
+Damascus steel
 damascus steel
 darmstadtium
+Devarda's alloy
 devarda's alloy
+Doré bullion
 doré bullion
 dubnium
+Ducol
 ducol
+Duralumin
 duralumin
+Dutch metal
 dutch metal
+Dymalloy
 dymalloy
 dysprosium
 einsteinium
 electro-slag remelting
+Electroplated
 electroplated
+Electrum
 electrum
+Elektron
 elektron
+Elgiloy
 elgiloy
+Elinvar
 elinvar
 erbium
 europium
 fermium
+Fernico
 fernico
+Ferroalloys
 ferroalloys
+Ferroboron
 ferroboron
+Ferrocerium
 ferrocerium
+Ferrochrome
 ferrochrome
+Ferromagnesium
 ferromagnesium
+Ferromanganese
 ferromanganese
+Ferromolybdenum
 ferromolybdenum
+Ferronickel
 ferronickel
+Ferrophosphorus
 ferrophosphorus
+Ferrosilicon
 ferrosilicon
+Ferrotitanium
 ferrotitanium
+Ferrouranium
 ferrouranium
+Ferrovanadium
 ferrovanadium
+Field's metal
 field's metal
+Florentine bronze
 florentine bronze
 francium
 gadolinium
+Galfenol
 galfenol
+Galinstan
 galinstan
 gallium
+German silver
 german silver
+Gilding metal
 gilding metal
+Glucydur
 glucydur
+Gold
 gold
 golden
+Goloid
 goloid
+Guanín
 guanín
+Gum metal
 gum metal
+Gunmetal
 gunmetal
+Hadfield steel
 hadfield steel
+Hafnium
 hafnium
 hassium
+Hastelloy
 hastelloy
+Hepatizon
 hepatizon
+Hiduminium
 hiduminium
+High-speed steel
 high-speed steel
 holmium
+HSLA steel
 hsla steel
+Hydronalium
 hydronalium
+Inconel
 inconel
 indium
+Invar
 invar
 iridescent
 iridium
+Iron
 iron
+Iron hydride
 iron hydride
+Italma
 italma
+Kanthal
 kanthal
+KLi
 kli
+Kovar
 kovar
 lanthanum
 lawrencium
+Lead
 lead
+Lithium
 lithium
+Lockalloy
 lockalloy
 lutetium
+Magnalium
 magnalium
+Magnesium
 magnesium
+Magnox
 magnox
+Manganese
 manganese
+Manganin
 manganin
+Maraging steel
 maraging steel
+Marine grade stainless
 marine grade stainless
+Martensitic stainless steel
 martensitic stainless steel
+Megallium
 megallium
 meitnerium
+Melchior
 melchior
 mendelevium
+Mercury
 mercury
 metal
 metallic
+Mischmetal
 mischmetal
+Molybdenum
 molybdenum
+Molybdochalkos
 molybdochalkos
+Monel metal
 monel metal
+Mu-metal
 mu-metal
+Muntz metal
 muntz metal
+Mushet steel
 mushet steel
+NaK
 nak
 neodymium
 neptunium
+Ni-Ti-Al
 ni-ti-al
+Nichrome
 nichrome
+Nickel
 nickel
+Nickel hydride
 nickel hydride
+Nickel silver
 nickel silver
+Nickel-carbon
 nickel-carbon
+Nicrosil
 nicrosil
+Nimonic
 nimonic
 niobium
+Nisil
 nisil
+Nitinol
 nitinol
 nobelium
+Nordic gold
 nordic gold
+Ormolu
 ormolu
+Osmium
 osmium
+Palladium
 palladium
+Permalloy
 permalloy
+Pewter
 pewter
+Phosphor bronze
 phosphor bronze
+Pig iron
 pig iron
+Pinchbeck
 pinchbeck
+Platinum
 platinum
+Platinum sterling
 platinum sterling
 plutonium
+Plutonium–gallium
 plutonium–gallium
 polonium
 potassium
 praseodymium
+Prince's metal
 prince's metal
 promethium
 protactinium
+Pseudo palladium
 pseudo palladium
+Queen's metal
 queen's metal
 radium
+Rare Earths
 rare earths
+Reynolds 531
 reynolds 531
 rhenium
+Rhodite
 rhodite
 rhodium
 roentgenium
+Rose gold
 rose gold
+Rose metal
 rose metal
 rubidium
 ruthenium
 rutherfordium
 samarium
+Sanicro 28
 sanicro 28
 scandium
+Scandium hydride
 scandium hydride
 seaborgium
+Shakudo
 shakudo
+Shibuichi
 shibuichi
+Silicon bronze
 silicon bronze
+Silicon steel
 silicon steel
+Silver
 silver
+Silver steel
 silver steel
 sodium
+Solder
 solder
+Speculum metal
 speculum metal
+Spiegeleisen
 spiegeleisen
+Spring steel
 spring steel
+Staballoy
 staballoy
+Stainless steel
 stainless steel
+Steel
 steel
+Stellite
 stellite
+Sterling silver
 sterling silver
 strontium
+Supermalloy
 supermalloy
+Surgical stainless steel
 surgical stainless steel
+Talonite
 talonite
+Tantalum
 tantalum
 technetium
 terbium
+Terfenol-D
 terfenol-d
+Terne
 terne
+Thallium
 thallium
 thorium
 thulium
+Tibetan silver
 tibetan silver
+Tin
 tin
+Titanium
 titanium
+Titanium gold
 titanium gold
+Titanium hydride
 titanium hydride
+Titanium nitride
 titanium nitride
+Tombac
 tombac
+Tool steel
 tool steel
+Tumbaga
 tumbaga
+Tungsten
 tungsten
+Type metal
 type metal
+Ultimet
 ultimet
 ununbium
 ununhexium
@@ -263,19 +459,33 @@ ununpentium
 ununquadium
 ununtrium
 uranium
+Uranium hydride
 uranium hydride
+Vanadium
 vanadium
+Vitallium
 vitallium
+Weathering steel
 weathering steel
+White bronze
 white bronze
+White gold
 white gold
+White metal
 white metal
+Wood's metal
 wood's metal
+Wootz steel
 wootz steel
+Y alloy
 y alloy
 ytterbium
 yttrium
+Zamak
 zamak
+Zeron 100
 zeron 100
+Zinc
 zinc
+Zirconium
 zirconium

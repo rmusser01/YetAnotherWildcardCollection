@@ -32,21 +32,12 @@ https://github.com/mattjaybe/sd-wildcards
     Collection (1): https://rentry.org/sdWildcardLists
         https://desuarchive.org/g/thread/89006003#89007479
     Collection (2): https://cdn.lewd.host/EtbKpD8C.zip
-    Collection (3): https://github.com/Lopyter/stable-soup-prompts/tree/main/wildcards
-    Collection (4): https://github.com/Lopyter/sd-artists-wildcards
-        Artist wildcard text files split by category according to Automatic1111's csv file.
-    Collection (5): https://github.com/jtkelm2/stable-diffusion-webui-1/tree/master/scripts/wildcards
-    🥒 Collection (6): https://rentry.org/NAIwildcards
         Zipped Collection: https://files.catbox.moe/s7expb.7z
-    🥒 Collection (7): https://files.catbox.moe/ipqljx.zip 483 txt files, huge dump (for Danbooru trained models)
-        old 329 version: https://files.catbox.moe/qy6vaf.zip
-        old 314 version: https://files.catbox.moe/11s1tn.zip
     Collection (8): https://www.mediafire.com/file/iceamfawqhn5kvu/wildcards.zip/file
     Collection (9): https://files.catbox.moe/88s7bf.zip Clothing
     🥒 Collection (10): https://files.catbox.moe/qyybik.zip
     Collection (11): https://cdn.lewd.host/4Ql5bhQD.7z
-    🥒 Collection (12): https://files.catbox.moe/hz5mom.zip Danbooru tag group wildcard dump organized into folders
-    Collection (13): https://github.com/jtkelm2/stable-diffusion-webui-1/tree/main/scripts/wildcards
+
 
 Text Files
 
@@ -79,19 +70,25 @@ Text Files
     Settings + Minerals: https://pastebin.com/9iznuYvQ
     Hairstyles: https://pastebin.com/X39Kzxh7
     Hairstyles 2: https://pastebin.com/bRWu1Xvv
-    Danbooru Poses: https://pastebin.com/RgerA8Ry
     Outfits: https://pastebin.com/Z9aHVpEy
-    Poses: https://rentry.org/m9dz6
     Clothes: https://pastebin.com/4a0BscGr
-    sex positions: https://files.catbox.moe/tzibuf.txt
     Angles: https://pastebin.com/T8w8HEED
-    Poses: https://pastebin.com/bgkunjw2
-    Hairstyles: https://pastebin.com/GguTseaR
-    Actresses: https://raw.githubusercontent.com/Mylakovich/SD-wildcards/main/wildcards/actress.txt
-    Punks: https://pastebin.com/rw2fPSHe
-    Curated RPG Character classes (based on TTRPG character class names): https://pastebin.com/6ujb7NNe
-    Hairstyle: https://pastebin.com/Ux6SdTdp
-    wildcardNames.txt generation script: https://files.catbox.moe/c1c4rx.py
+
+
+c1c4rx.py
+```
+# wildcardNames.txt generation script
+import os
+names = os.listdir('./scripts/wildcards')
+
+doc = open("wildcardNames.txt", "w")
+
+for x in names:
+    x = x[0:-4]
+    doc.write(x)
+    doc.write("\n")
+```
+
     Another script: https://files.catbox.moe/hvly0p.rar
     Script: https://gist.github.com/h-a-te/30f4a51afff2564b0cfbdf1e490e9187
     UMI AI: https://www.patreon.com/posts/umi-ai-official-73544634
@@ -113,6 +110,14 @@ Wildcard files are simple text - one entry per line.
 Wildcards can contain prompt-syntax (eg another wildcard inside the wildcard, or a preset, or whatever you want)
 Use # to comment a line (not count in the options list).
 
+
+
+---------------------------------------------------------------------------------------------------------
+### 101/What is this?
+- **101**
+	* This is a repo/guide whose purpose is to help facilitate and improve the process of generating images using wildcards.
+- **Links**
+	* `stable-diffusion-webui-wildcards` extension: https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards
 - Booru Prompts tag categories not included:
 	- symbols
 		* Symbols from the real world
@@ -129,16 +134,9 @@ Use # to comment a line (not count in the options list).
 	- Objects:
 		* Piercings -> Genital piercings
 		* Sex objects
-- Booru tags not sorted fully:
+- Booru tags not sorted fully:(and likely wont be)
 	* https://danbooru.donmai.us/wiki_pages/list_of_ships
 	* https://danbooru.donmai.us/wiki_pages/list_of_ground_vehicles
-
----------------------------------------------------------------------------------------------------------
-### 101/What is this?
-- **101**
-	* This is a repo/guide whose purpose is to help facilitate and improve the process of generating images using wildcards.
-- **Links**
-	* `stable-diffusion-webui-wildcards` extension: https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards
 ---------------------------------------------------------------------------------------------------------
 
 

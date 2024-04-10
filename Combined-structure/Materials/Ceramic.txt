@@ -2,29 +2,46 @@ alumina
 alumina-silica
 alumina-zirconia-silica
 barium titanate
+Barium Titanate
 bioceramic
+Bioceramic
 biscuit
 bone china
+Bone China
 boron carbide
+Boron Carbide
 carbon
+Carbon
 ceramic foam
+Ceramic Foam
 ceramic matrix composites
+Ceramic Matrix Composites
 cordierite
 earthenware
+Earthenware
 ferrite
+Ferrite
 fine bone china
 fired bricks
+Fired Bricks
 glass ceramics
+Glass Ceramics
 kaolin
 magnesia-carbon
 mullite
 porcelain
+Porcelain
 silicon
+Silicon
 silicon carbide
+Silicon Carbide
 silicon nitride
 steatite
 stoneware
+Stoneware
 terra cotta
 titanium carbide
+Titanium Carbide
 tungsten carbide
+Tungsten Carbide
 zirconia

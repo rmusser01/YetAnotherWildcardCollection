@@ -1,0 +1,50 @@
+Beholder
+Dragon (various types)
+Goblin
+Orc
+Troll
+Giant (various types)
+Lich
+Medusa
+Zombie
+Skeleton
+Vampire
+Werewolf
+Mummy
+Ghost
+Sphinx
+Harpy
+Minotaur
+Cyclops
+Chimera
+Hydra
+Golem
+Kobold
+Rust Monster
+Gelatinous Cube
+Mimic
+Owlbear
+Basilisk
+Lamia
+Unicorn
+Faerie Dragon
+Sahuagin
+Aboleth
+Mind Flayer
+Rakshasa
+Displacer Beast
+Manticore
+Hill Giant
+Frost Giant
+Fire Giant
+Storm Giant
+Doppelganger
+Gnoll
+Bugbear
+Drow
+Djinni
+Efreeti
+Marilith
+Balor
+Demogorgon
+Orcus
