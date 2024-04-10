@@ -1,0 +1,100 @@
+Crypt
+Graveyard
+Mausoleum
+Coffin
+Tomb
+Cemetery
+Catacomb
+Ossuary
+Crematory
+Morgue
+Dungeon
+Prison
+Cell
+Insane asylum
+Lab
+Operating room
+Abattoir
+Slaughterhouse
+Treehouse
+Cabin
+Barn
+Shed
+Warehouse
+Factory
+Mill
+Mine
+Tunnel
+Sewer
+Cellar
+Attic
+Basement
+Storm drain
+Shipwreck
+Ghost ship
+Plane wreck
+Crash site
+Battlefield
+Trench
+Foxhole
+Hospital
+Sanatorium
+School
+Dormitory
+Library
+Museum
+Theater
+Carnival
+Circus
+Amusement park
+Fairground
+Hall of mirrors
+Funhouse
+Haunted house
+Abandoned house
+Ruins
+Castle
+Keep
+Fortress
+Dungeon
+Laboratory
+Occult room
+Ritual chamber
+Execution chamber
+Torture chamber
+Sacrificial altar
+Coven meeting site
+Witch hut
+Creepy island
+Deserted island
+Forbidden island
+Island of Doctor Moreau
+Swamp
+Bog
+Marsh
+Bayou
+Jungle
+Rainforest
+Forest
+Woods
+Campsite
+Cave
+Cavern
+Canyon
+Ravine
+Rocky cliffs
+Mountain
+Frozen tundra
+Glacier
+Ice caves
+Arctic base
+Desert
+Oasis
+Pyramid
+Temple
+Ruined city
+Forgotten realm
+Parallel dimension
+Hell
+Limbo
+The Twilight Zone

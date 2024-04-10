@@ -1,0 +1,100 @@
+Zombie
+Vampire
+Werewolf
+Mummy
+Ghost
+Demon
+Monster
+Mutant
+Pennywise the Dancing Clown
+The Rake
+Psychopath
+Serial killer
+Cannibal
+Ghoul
+Revenant
+Poltergeist
+Banshee
+Wraith
+Specter
+Phantom
+Nightmare
+Alien
+Predator
+Creature
+Beast
+Abomination
+Fiend
+Devil
+Goblin
+Troll
+Ogre
+Giant
+Titan
+Cyclops
+Gorgon
+Harpy
+Siren
+Nymph
+Centaur
+Minotaur
+Hydra
+Chimera
+Basilisk
+Dragon
+Leviathan
+Kraken
+Mermaid
+Scorpion man
+Satyr
+Sphinx
+Cerberus
+Chupacabra
+Boggart
+Gremlin
+Imp
+Pixie
+Sprite
+Nymph
+Gnome
+Dwarf
+Orc
+Goblin
+Troll
+Ogre
+Skeleton
+Lich
+Zombie
+Mummy
+Vampire
+Werewolf
+Wendigo
+Ghoul
+Phantom
+Poltergeist
+Banshee
+Wraith
+Specter
+Revenant
+Headless horseman
+Scarecrow
+Frankenstein's monster
+Golem
+Mr. Hyde
+Invisible man
+Swamp thing
+Gill-man
+Blob
+Thing
+Creature from the black lagoon
+Mothman
+Jersey devil
+Spring-heeled jack
+Slender man
+Freddy Krueger
+Jason Voorhees
+Michael Myers
+Chucky
+Jigsaw
+Hannibal Lecter
+Norman Bates

@@ -119,6 +119,7 @@ Text Files
 		* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/nsp
 		* https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections/devilkkw
 		* https://github.com/mattjaybe/sd-wildcards
+		* https://civitai.com/models/161666/horror-wildcards
 ---------------------------------------------------------------------------------------------------------
 
 
@@ -186,6 +187,10 @@ Text Files
 		* `{Background}` - What is in the background/setting for the picture?
 		* `{Mods/Embeddings}` - any extras or LORAs
 	- Examples:
+- **Prompt Structure from 'MasterPrompt'**
+	* https://civitai.com/models/264781/masterprompt-one-prompt-to-rule-them-all-wildcards
+	- Prompt: Creates a profile photo
+		* `<quality>, <style>, <work/artist>, <camera_angle>, <lighting>,<photographer_style>; it is showcased <race>, <age>, and <complexion> <subject>, having <hair_color> <haircut>;and <facial_expressions/face>, <appearance/attire>; <pose> <background>`
 - **Using ChatGPT/LLMs to Write Prompts for You**
 1. From: https://gist.github.com/bluelovers/92dac6fe7dcbafd7b5ae0557e638e6ef
 ```
