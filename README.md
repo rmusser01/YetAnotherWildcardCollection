@@ -40,10 +40,8 @@ Including:
 - [ ] Add content from: https://github.com/jtkelm2/stable-diffusion-webui-1/tree/master/scripts/wildcards
 - [ ] Add content from: https://rentry.org/NAIwildcards
 - [ ] Add content from: https://github.com/jtkelm2/stable-diffusion-webui-1/tree/main/scripts/wildcards
-- [ ] Add content from: 
-- [ ] Add content from: 
-- [ ] Add content from wildcard zips: X
-- [ ] Add content from links
+- [ ] Add content from: https://github.com/Vetchems/sd-danbooru-tags
+- [ ] Add content from wildcard zips
 
 For items in catalogues that were NSFW, here is a list of URLs containing individual files that were not added:
 	* Deleted fetishes folder
